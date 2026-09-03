@@ -1,0 +1,51 @@
+name: JGrants Sync
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - "request.json"
+      - "requirements.txt"
+      - ".github/workflows/jgrants_sync.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jgrants-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch JGrants API
+        run: python scripts/jgrants_sync.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "Update Jグランツ data"
+            git push
+          fi
