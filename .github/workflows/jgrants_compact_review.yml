@@ -1,0 +1,24 @@
+name: JGrants Compact Review Facts
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/compact_review_facts.py"
+      - ".github/workflows/jgrants_compact_review.yml"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/compact_review_facts.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/review_facts_43.md
+          git commit -m "Compile 43件応募条件要約" || exit 0
+          git push
