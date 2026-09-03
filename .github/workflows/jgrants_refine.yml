@@ -1,0 +1,30 @@
+name: JGrants Refined Eligibility
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/refine_eligibility.py"
+      - ".github/workflows/jgrants_refine.yml"
+      - "data/eligibility.csv"
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refine eligibility table
+        run: python scripts/refine_eligibility.py
+      - name: Commit refined table
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/eligibility_refined.csv data/eligibility_refined.md data/eligibility_refined_summary.json
+          git commit -m "Update Jグランツ精査表" || exit 0
+          git push
