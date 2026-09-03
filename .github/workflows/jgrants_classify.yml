@@ -1,0 +1,43 @@
+name: JGrants Full Eligibility
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/classify_all.py"
+      - ".github/workflows/jgrants_classify.yml"
+      - "data/latest.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jgrants-full-eligibility
+  cancel-in-progress: true
+
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Classify all current subsidies
+        run: python scripts/classify_all.py
+      - name: Commit eligibility table
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/eligibility.csv data/eligibility.md data/eligibility_summary.json
+          if git diff --cached --quiet; then
+            echo "No eligibility changes"
+          else
+            git commit -m "Update Jグランツ全件申請可否"
+            git push
+          fi
