@@ -1,7 +1,5 @@
 {
-  "mode": "search",
-  "keyword": "補助金",
-  "acceptance": 1,
-  "sort": "created_date",
-  "order": "DESC"
+  "mode": "detail",
+  "id": "a0WJ200000CDeUWMA1",
+  "extract_attachments": true
 }
