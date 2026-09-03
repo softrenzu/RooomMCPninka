@@ -1,0 +1,49 @@
+name: JGrants Chat Request
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "request.json"
+      - "scripts/jgrants_request.py"
+      - "scripts/jgrants_sync.py"
+      - "requirements.txt"
+      - ".github/workflows/jgrants_request.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jgrants-chat-request
+  cancel-in-progress: false
+
+jobs:
+  request:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Execute ChatGPT request
+        run: python scripts/jgrants_request.py
+
+      - name: Commit request result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/query_result.json data/last_request_run.json data/request_text || true
+          if git diff --cached --quiet; then
+            echo "No request data changes"
+          else
+            git commit -m "Update Jグランツ chat result"
+            git push
+          fi
