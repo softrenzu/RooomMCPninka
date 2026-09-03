@@ -18,6 +18,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install dependency
+        run: pip install requests
       - name: Build quick eligibility table
         run: python scripts/classify_snapshot.py
       - name: Commit quick table
