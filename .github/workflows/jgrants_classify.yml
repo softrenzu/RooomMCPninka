@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - "scripts/classify_all.py"
+      - "scripts/classify_all_fast.py"
       - ".github/workflows/jgrants_classify.yml"
       - "data/latest.json"
 
@@ -29,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Classify all current subsidies
-        run: python scripts/classify_all.py
+        run: python scripts/classify_all_fast.py
       - name: Commit eligibility table
         run: |
           git config user.name "github-actions[bot]"
