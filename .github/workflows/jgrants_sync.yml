@@ -26,6 +26,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -47,5 +49,16 @@ jobs:
             echo "No data changes"
           else
             git commit -m "Update Jグランツ snapshot"
-            git push
+            pushed=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            echo "Remote advanced during push; retry ${attempt}/5"
+            sleep $((attempt * 2))
+          done
+          test "$pushed" -eq 1
           fi

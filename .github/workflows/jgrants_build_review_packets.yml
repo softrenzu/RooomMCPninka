@@ -17,6 +17,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -29,4 +31,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/review_packets data/review_packets_summary.json
           git commit -m "Build 43件公募要領レビュー資料" || exit 0
-          git push
+          pushed=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            echo "Remote advanced during push; retry ${attempt}/5"
+            sleep $((attempt * 2))
+          done
+          test "$pushed" -eq 1
