@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-03T12:45:04.553645+00:00",
-    "tokyo": "2026-09-03T21:45:04.553645+09:00"
+    "utc": "2026-09-03T12:46:38.146942+00:00",
+    "tokyo": "2026-09-03T21:46:38.146942+09:00"
   },
   "request": {
     "mode": "detail",
@@ -119,6 +119,127 @@
   },
   "attachment_extraction": {
     "subsidy_id": "a0WJ200000CDeUWMA1",
-    "files": []
+    "files": [
+      {
+        "type": "application_guidelines",
+        "index": 1,
+        "original_name": "第２回募集案内.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_guidelines_1.txt",
+        "characters": 1691
+      },
+      {
+        "type": "application_guidelines",
+        "index": 2,
+        "original_name": "第２回 募集要項.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_guidelines_2.txt",
+        "characters": 9806
+      },
+      {
+        "type": "application_guidelines",
+        "index": 3,
+        "original_name": "実施要領.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_guidelines_3.txt",
+        "characters": 41394
+      },
+      {
+        "type": "application_guidelines",
+        "index": 4,
+        "original_name": "実施要領別紙.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_guidelines_4.txt",
+        "characters": 982
+      },
+      {
+        "type": "outline_of_grant",
+        "index": 1,
+        "original_name": "交付要綱.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/outline_of_grant_1.txt",
+        "characters": 24187
+      },
+      {
+        "type": "application_form",
+        "index": 1,
+        "original_name": "様式第１－１（特許、実用新案、意匠及び商標（抜け駆け対策商標以外）の申請用）.docx",
+        "status": "binary_not_extracted",
+        "bytes": 70162
+      },
+      {
+        "type": "application_form",
+        "index": 2,
+        "original_name": "様式第１－２ （抜け駆け対策商標申請用.docx",
+        "status": "binary_not_extracted",
+        "bytes": 63119
+      },
+      {
+        "type": "application_form",
+        "index": 3,
+        "original_name": "様式第１－１の別紙.docx",
+        "status": "binary_not_extracted",
+        "bytes": 48791
+      },
+      {
+        "type": "application_form",
+        "index": 4,
+        "original_name": "様式第１－１の別添.docx",
+        "status": "binary_not_extracted",
+        "bytes": 44253
+      },
+      {
+        "type": "application_form",
+        "index": 5,
+        "original_name": "様式第１－２の別紙.docx",
+        "status": "binary_not_extracted",
+        "bytes": 46698
+      },
+      {
+        "type": "application_form",
+        "index": 6,
+        "original_name": "様式第１－２の別添.docx",
+        "status": "binary_not_extracted",
+        "bytes": 44273
+      },
+      {
+        "type": "application_form",
+        "index": 7,
+        "original_name": "【記載例】様式第１－１（商標）.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_form_7.txt",
+        "characters": 10591
+      },
+      {
+        "type": "application_form",
+        "index": 8,
+        "original_name": "よくある質問.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_form_8.txt",
+        "characters": 16532
+      },
+      {
+        "type": "application_form",
+        "index": 9,
+        "original_name": "【記載例】様式第１－１.pdf",
+        "status": "text_extracted",
+        "text_path": "data/request_text/a0WJ200000CDeUWMA1/application_form_9.txt",
+        "characters": 11330
+      },
+      {
+        "type": "application_form",
+        "index": 10,
+        "original_name": "共通様式　資金計画.docx",
+        "status": "binary_not_extracted",
+        "bytes": 26363
+      },
+      {
+        "type": "application_form",
+        "index": 11,
+        "original_name": "共通様式　加点項目.docx",
+        "status": "binary_not_extracted",
+        "bytes": 42139
+      }
+    ]
   }
 }
