@@ -1,4 +1,4 @@
-name: JGrants Sync
+name: JGrants Snapshot
 
 on:
   schedule:
@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "scripts/**"
+      - "scripts/jgrants_sync.py"
+      - "scripts/jgrants_snapshot.py"
       - "config/**"
-      - "request.json"
       - "requirements.txt"
       - ".github/workflows/jgrants_sync.yml"
 
@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: jgrants-sync
+  group: jgrants-snapshot
   cancel-in-progress: false
 
 jobs:
@@ -35,8 +35,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch JGrants API
-        run: python scripts/jgrants_sync.py
+      - name: Fetch JGrants snapshot
+        run: python scripts/jgrants_snapshot.py
 
       - name: Commit refreshed data
         run: |
@@ -46,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes"
           else
-            git commit -m "Update Jグランツ data"
+            git commit -m "Update Jグランツ snapshot"
             git push
           fi
