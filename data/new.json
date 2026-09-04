@@ -1,23 +1,44 @@
 {
   "generated_at": {
-    "utc": "2026-09-04T04:41:29.646748+00:00",
-    "tokyo": "2026-09-04T13:41:29.646748+09:00"
+    "utc": "2026-09-04T11:26:29.263804+00:00",
+    "tokyo": "2026-09-04T20:26:29.263804+09:00"
   },
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-04T01:00:00.000Z",
-      "id": "a0WJ200000CDe8tMAD",
+      "acceptance_start_datetime": "2026-09-04T05:00:00.000Z",
+      "id": "a0WJ200000CDdonMAD",
       "institution_name": null,
-      "name": "S-00009735",
+      "name": "S-00009612",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "「風車生産技術研究開発」の公募",
+      "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
       "matched_keywords": [
         "開発",
-        "研究"
+        "研究",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-04T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T08:00:00.000Z",
+      "id": "a0WJ200000CDe4JMAT",
+      "institution_name": null,
+      "name": "S-00009688",
+      "subsidy_max_limit": 4000000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備",
+        "省エネ",
+        "地域"
       ]
     }
   ]

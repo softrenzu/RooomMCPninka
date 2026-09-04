@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-04T04:41:29.646748+00:00",
-    "tokyo": "2026-09-04T13:41:29.646748+09:00"
+    "utc": "2026-09-04T11:26:29.263804+00:00",
+    "tokyo": "2026-09-04T20:26:29.263804+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,70 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 382,
+  "count": 381,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-04T06:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-07T05:00:00.000Z",
-      "id": "a0WJ200000CDctfMAD",
-      "institution_name": null,
-      "name": "S-00009455",
-      "subsidy_max_limit": 720000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "開発",
-        "促進",
-        "研究",
-        "実証",
-        "デジタル",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-04T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-15T00:00:00.000Z",
-      "id": "a0WJ200000CDYh2MAH",
-      "institution_name": null,
-      "name": "S-00008969",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "北海道",
-      "target_number_of_employees": "300名以下",
-      "title": "2026年度「海外出願支援事業」（2次募集）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-04T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-16T15:00:00.000Z",
-      "id": "a0WJ200000CDeUWMA1",
-      "institution_name": null,
-      "name": "S-00009790",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "岡山県",
-      "target_number_of_employees": "300名以下",
-      "title": "【岡山県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第２回公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "研究",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-07T01:00:00.000Z",
@@ -1775,6 +1715,22 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T05:00:00.000Z",
+      "id": "a0WJ200000CDdonMAD",
+      "institution_name": null,
+      "name": "S-00009612",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究",
+        "実証"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-10-07T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-18T01:00:00.000Z",
       "id": "a0WJ200000CDdRmMAL",
@@ -2179,6 +2135,26 @@
         "促進",
         "設備",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-04T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T08:00:00.000Z",
+      "id": "a0WJ200000CDe4JMAT",
+      "institution_name": null,
+      "name": "S-00009688",
+      "subsidy_max_limit": 4000000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備",
+        "省エネ",
+        "地域"
       ]
     },
     {
@@ -2768,7 +2744,6 @@
       "title": "【福岡県宗像市】令和8年度 食のまち宗像推進補助金",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "開発",
         "促進",
