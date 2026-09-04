@@ -1,8 +1,24 @@
 {
   "generated_at": {
-    "utc": "2026-09-03T23:19:31.889823+00:00",
-    "tokyo": "2026-09-04T08:19:31.889823+09:00"
+    "utc": "2026-09-04T04:41:29.646748+00:00",
+    "tokyo": "2026-09-04T13:41:29.646748+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T01:00:00.000Z",
+      "id": "a0WJ200000CDe8tMAD",
+      "institution_name": null,
+      "name": "S-00009735",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「風車生産技術研究開発」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    }
+  ]
 }

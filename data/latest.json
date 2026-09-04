@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-03T23:19:31.889823+00:00",
-    "tokyo": "2026-09-04T08:19:31.889823+09:00"
+    "utc": "2026-09-04T04:41:29.646748+00:00",
+    "tokyo": "2026-09-04T13:41:29.646748+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -31,21 +31,6 @@
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-04T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-21T01:00:00.000Z",
-      "id": "a0WJ200000CDdu5MAD",
-      "institution_name": null,
-      "name": "S-00009648",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-04T06:00:00.000Z",
       "acceptance_start_datetime": "2026-08-07T05:00:00.000Z",
@@ -1769,6 +1754,21 @@
       "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
       "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T01:00:00.000Z",
+      "id": "a0WJ200000CDe8tMAD",
+      "institution_name": null,
+      "name": "S-00009735",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「風車生産技術研究開発」の公募",
       "matched_keywords": [
         "開発",
         "研究"
