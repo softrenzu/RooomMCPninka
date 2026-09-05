@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-05T10:42:37.964563+00:00",
-    "tokyo": "2026-09-05T19:42:37.964563+09:00"
+    "utc": "2026-09-05T15:19:38.819489+00:00",
+    "tokyo": "2026-09-06T00:19:38.819489+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1954,7 +1954,7 @@
       "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
       "acceptance_start_datetime": "2025-06-30T09:00:00.000Z",
       "id": "a0WJ200000CDPyeMAH",
-      "institution_name": "事業再構築補助金",
+      "institution_name": null,
       "name": "S-00006849",
       "subsidy_max_limit": 150000000,
       "target_area_search": "全国",
@@ -2465,7 +2465,7 @@
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-01T01:00:00.000Z",
       "id": "a0WJ200000CDderMAD",
-      "institution_name": null,
+      "institution_name": "SDS電子化補助金事業",
       "name": "S-00009553",
       "subsidy_max_limit": 1000000,
       "target_area_search": "全国",
