@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-04T23:04:49.741409+00:00",
-    "tokyo": "2026-09-05T08:04:49.741409+09:00"
+    "utc": "2026-09-05T04:37:40.248751+00:00",
+    "tokyo": "2026-09-05T13:37:40.248751+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1883,7 +1883,7 @@
       "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
       "acceptance_start_datetime": "2026-07-27T06:00:00.000Z",
       "id": "a0WJ200000CDdALMA1",
-      "institution_name": null,
+      "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞",
       "name": "S-00009485",
       "subsidy_max_limit": 2000000,
       "target_area_search": "石川県",
