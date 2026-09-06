@@ -1,8 +1,27 @@
 {
   "generated_at": {
-    "utc": "2026-09-06T11:04:38.573181+00:00",
-    "tokyo": "2026-09-06T20:04:38.573181+09:00"
+    "utc": "2026-09-06T15:32:28.244459+00:00",
+    "tokyo": "2026-09-07T00:32:28.244459+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-06T15:00:00.000Z",
+      "id": "a0WJ200000CDW8bMAH",
+      "institution_name": null,
+      "name": "S-00007574",
+      "subsidy_max_limit": 5000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度製品改良／規格適合・認証取得支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "導入",
+        "実証"
+      ]
+    }
+  ]
 }

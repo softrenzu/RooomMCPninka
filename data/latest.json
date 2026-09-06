@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-06T11:04:38.573181+00:00",
-    "tokyo": "2026-09-06T20:04:38.573181+09:00"
+    "utc": "2026-09-06T15:32:28.244459+00:00",
+    "tokyo": "2026-09-07T00:32:28.244459+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 381,
+  "count": 382,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1424,6 +1424,24 @@
     },
     {
       "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-06T15:00:00.000Z",
+      "id": "a0WJ200000CDW8bMAH",
+      "institution_name": null,
+      "name": "S-00007574",
+      "subsidy_max_limit": 5000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度製品改良／規格適合・認証取得支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "導入",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
       "acceptance_start_datetime": "2026-08-24T00:00:00.000Z",
       "id": "a0WJ200000CDe0VMAT",
       "institution_name": null,
@@ -1954,7 +1972,7 @@
       "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
       "acceptance_start_datetime": "2025-06-30T09:00:00.000Z",
       "id": "a0WJ200000CDPyeMAH",
-      "institution_name": "事業再構築補助金",
+      "institution_name": null,
       "name": "S-00006849",
       "subsidy_max_limit": 150000000,
       "target_area_search": "全国",
