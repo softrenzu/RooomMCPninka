@@ -1,8 +1,64 @@
 {
   "generated_at": {
-    "utc": "2026-09-06T22:55:38.010102+00:00",
-    "tokyo": "2026-09-07T07:55:38.010102+09:00"
+    "utc": "2026-09-07T04:51:18.514673+00:00",
+    "tokyo": "2026-09-07T13:51:18.514673+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+      "id": "a0WJ200000CDe3zMAD",
+      "institution_name": null,
+      "name": "S-00009687",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "300名以下",
+      "title": "【令和８年度・第４回】INPIT外国出願補助金",
+      "matched_keywords": [
+        "支援",
+        "補助",
+        "促進",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+      "id": "a0WJ200000CDKZFMA5",
+      "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+      "name": "S-00006173",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T00:00:00.000Z",
+      "id": "a0WJ200000CDaTCMA1",
+      "institution_name": null,
+      "name": "S-00009311",
+      "subsidy_max_limit": 200000000,
+      "target_area_search": "栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年_設備投資_事業化状況報告",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "設備"
+      ]
+    }
+  ]
 }

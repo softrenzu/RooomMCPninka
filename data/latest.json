@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-06T22:55:38.010102+00:00",
-    "tokyo": "2026-09-07T07:55:38.010102+09:00"
+    "utc": "2026-09-07T04:51:18.514673+00:00",
+    "tokyo": "2026-09-07T13:51:18.514673+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -31,56 +31,6 @@
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-07T01:00:00.000Z",
-      "id": "a0WJ200000CDd5cMAD",
-      "institution_name": null,
-      "name": "S-00009478",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-07T01:00:00.000Z",
-      "id": "a0WJ200000CDdA1MAL",
-      "institution_name": null,
-      "name": "S-00009480",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（未来型新エネ実証制度）の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究",
-        "実証"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
-      "id": "a0WJ200000CDeA1MAL",
-      "institution_name": null,
-      "name": "S-00009737",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「競争的な水素サプライチェーン構築に向けた技術開発事業／総合調査研究／水素キャリアに係る船陸インターフェースの国際標準化に向けた基礎調査」の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-07T06:00:00.000Z",
       "acceptance_start_datetime": "2026-08-06T05:00:00.000Z",
@@ -939,6 +889,23 @@
       "matched_keywords": [
         "事業",
         "助成"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+      "id": "a0WJ200000CDe3zMAD",
+      "institution_name": null,
+      "name": "S-00009687",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "300名以下",
+      "title": "【令和８年度・第４回】INPIT外国出願補助金",
+      "matched_keywords": [
+        "支援",
+        "補助",
+        "促進",
+        "研究"
       ]
     },
     {
@@ -1878,6 +1845,27 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+      "id": "a0WJ200000CDKZFMA5",
+      "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+      "name": "S-00006173",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "地域",
+        "環境"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
       "acceptance_start_datetime": "2026-07-27T08:00:00.000Z",
       "id": "a0WJ200000CDWp3MAH",
@@ -1972,7 +1960,7 @@
       "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
       "acceptance_start_datetime": "2025-06-30T09:00:00.000Z",
       "id": "a0WJ200000CDPyeMAH",
-      "institution_name": null,
+      "institution_name": "事業再構築補助金",
       "name": "S-00006849",
       "subsidy_max_limit": 150000000,
       "target_area_search": "全国",
@@ -3081,6 +3069,23 @@
       "matched_keywords": [
         "事業",
         "補助",
+        "設備"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T00:00:00.000Z",
+      "id": "a0WJ200000CDaTCMA1",
+      "institution_name": null,
+      "name": "S-00009311",
+      "subsidy_max_limit": 200000000,
+      "target_area_search": "栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年_設備投資_事業化状況報告",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
         "設備"
       ]
     },
