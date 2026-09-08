@@ -1,29 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-08T11:26:36.353618+00:00",
-    "tokyo": "2026-09-08T20:26:36.353618+09:00"
+    "utc": "2026-09-08T16:42:55.173532+00:00",
+    "tokyo": "2026-09-09T01:42:55.173532+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WfQ000003Cy0HUAS",
-      "institution_name": null,
-      "name": "S-00009835",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "島根県",
-      "target_number_of_employees": "300名以下",
-      "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第５回公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "研究",
-        "地域"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
