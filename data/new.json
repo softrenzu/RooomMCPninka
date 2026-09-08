@@ -1,8 +1,26 @@
 {
   "generated_at": {
-    "utc": "2026-09-07T23:33:54.640762+00:00",
-    "tokyo": "2026-09-08T08:33:54.640762+09:00"
+    "utc": "2026-09-08T04:47:12.430526+00:00",
+    "tokyo": "2026-09-08T13:47:12.430526+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-28T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-08T01:00:00.000Z",
+      "id": "a0WJ200000CDeNDMA1",
+      "institution_name": "P99029_戦略策定調査事業",
+      "name": "S-00009754",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "デジタル"
+      ]
+    }
+  ]
 }
