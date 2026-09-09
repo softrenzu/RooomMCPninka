@@ -1,47 +1,25 @@
 {
   "generated_at": {
-    "utc": "2026-09-09T11:32:08.778429+00:00",
-    "tokyo": "2026-09-09T20:32:08.778429+09:00"
+    "utc": "2026-09-09T16:44:21.297596+00:00",
+    "tokyo": "2026-09-10T01:44:21.297596+09:00"
   },
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T01:00:00.000Z",
-      "id": "a0WfQ000003Dh0bUAC",
+      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-09T15:00:00.000Z",
+      "id": "a0WfQ000003BzWHUA0",
       "institution_name": null,
-      "name": "S-00009845",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "埼玉県",
-      "target_number_of_employees": "300名以下",
-      "title": "【埼玉県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
+      "name": "S-00009823",
+      "subsidy_max_limit": 0,
+      "target_area_search": "神奈川県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金",
       "matched_keywords": [
         "事業",
         "支援",
         "補助",
-        "助成",
-        "促進",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-03T15:00:00.000Z",
-      "id": "a0WfQ000003DgHRUA0",
-      "institution_name": null,
-      "name": "S-00009844",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "山口県",
-      "target_number_of_employees": "300名以下",
-      "title": "【山口県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "研究",
-        "地域"
+        "設備"
       ]
     }
   ]
