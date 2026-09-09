@@ -1,63 +1,47 @@
 {
   "generated_at": {
-    "utc": "2026-09-09T04:50:15.598124+00:00",
-    "tokyo": "2026-09-09T13:50:15.598124+09:00"
+    "utc": "2026-09-09T11:32:08.778429+00:00",
+    "tokyo": "2026-09-09T20:32:08.778429+09:00"
   },
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTVMA1",
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-09T01:00:00.000Z",
+      "id": "a0WfQ000003Dh0bUAC",
       "institution_name": null,
-      "name": "S-00009780",
-      "subsidy_max_limit": 10000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）",
+      "name": "S-00009845",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "埼玉県",
+      "target_number_of_employees": "300名以下",
+      "title": "【埼玉県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
       "matched_keywords": [
         "事業",
         "支援",
+        "補助",
         "助成",
         "促進",
-        "設備"
+        "地域"
       ]
     },
     {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTUMA1",
+      "acceptance_end_datetime": "2026-10-02T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-03T15:00:00.000Z",
+      "id": "a0WfQ000003DgHRUA0",
       "institution_name": null,
-      "name": "S-00009779",
-      "subsidy_max_limit": 5000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回BCP実践促進助成金（R82BCP）",
+      "name": "S-00009844",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "山口県",
+      "target_number_of_employees": "300名以下",
+      "title": "【山口県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
       "matched_keywords": [
         "事業",
         "支援",
+        "補助",
         "助成",
         "促進",
-        "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTWMA1",
-      "institution_name": null,
-      "name": "S-00009781",
-      "subsidy_max_limit": 5000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "促進",
-        "設備"
+        "研究",
+        "地域"
       ]
     }
   ]

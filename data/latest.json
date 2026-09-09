@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-09T04:50:15.598124+00:00",
-    "tokyo": "2026-09-09T13:50:15.598124+09:00"
+    "utc": "2026-09-09T11:32:08.778429+00:00",
+    "tokyo": "2026-09-09T20:32:08.778429+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,31 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 381,
+  "count": 382,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-09T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-19T05:00:00.000Z",
-      "id": "a0WJ200000CDe7xMAD",
-      "institution_name": null,
-      "name": "S-00009731",
-      "subsidy_max_limit": 500000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度運輸部門におけるエネルギーの使用合理化・非化石エネルギー転換推進事業費補助金（内航船革新的運航効率化・非化石エネルギー転換推進事業）（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "実証",
-        "省エネ",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-09T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-16T15:00:00.000Z",
@@ -1254,6 +1233,25 @@
     },
     {
       "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-09T01:00:00.000Z",
+      "id": "a0WfQ000003Dh0bUAC",
+      "institution_name": null,
+      "name": "S-00009845",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "埼玉県",
+      "target_number_of_employees": "300名以下",
+      "title": "【埼玉県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
       "id": "a0WfQ000003Cy0HUAS",
       "institution_name": null,
@@ -1645,6 +1643,26 @@
         "設備",
         "地域",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-02T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-03T15:00:00.000Z",
+      "id": "a0WfQ000003DgHRUA0",
+      "institution_name": null,
+      "name": "S-00009844",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "山口県",
+      "target_number_of_employees": "300名以下",
+      "title": "【山口県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "研究",
+        "地域"
       ]
     },
     {
@@ -2448,7 +2466,7 @@
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-01T01:00:00.000Z",
       "id": "a0WJ200000CDderMAD",
-      "institution_name": null,
+      "institution_name": "SDS電子化補助金事業",
       "name": "S-00009553",
       "subsidy_max_limit": 1000000,
       "target_area_search": "全国",
@@ -6807,7 +6825,6 @@
       "title": "［第十三回］事業再構築補助金_促進上乗せ措置（交付申請等）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "促進",
         "地域",
