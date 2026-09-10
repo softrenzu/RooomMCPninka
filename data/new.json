@@ -1,25 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-10T04:51:38.723024+00:00",
-    "tokyo": "2026-09-10T13:51:38.723024+09:00"
+    "utc": "2026-09-10T11:28:42.883689+00:00",
+    "tokyo": "2026-09-10T20:28:42.883689+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-10-19T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-10T01:00:00.000Z",
-      "id": "a0WJ200000CDeN8MAL",
-      "institution_name": null,
-      "name": "S-00009753",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究",
-        "地域"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
