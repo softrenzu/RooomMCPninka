@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-11T16:34:31.386966+00:00",
-    "tokyo": "2026-09-12T01:34:31.386966+09:00"
+    "utc": "2026-09-11T21:02:26.049469+00:00",
+    "tokyo": "2026-09-12T06:02:26.049469+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2727,7 +2727,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福岡県宗像市】令和8年度 宗像市創業応援補助金（“宗業”者応援補助金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "補助",
         "開発",
