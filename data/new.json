@@ -1,48 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-11T04:48:40.589030+00:00",
-    "tokyo": "2026-09-11T13:48:40.589030+09:00"
+    "utc": "2026-09-11T11:30:38.777874+00:00",
+    "tokyo": "2026-09-11T20:30:38.777874+09:00"
   },
-  "count": 2,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
-      "id": "a0WfQ000003BrAXUA0",
-      "institution_name": null,
-      "name": "S-00009821",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和8年度】DX型CO2削減対策実行支援事業（二次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "導入",
-        "促進",
-        "環境",
-        "DX"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
-      "id": "a0WfQ000003BpWvUAK",
-      "institution_name": null,
-      "name": "S-00009820",
-      "subsidy_max_limit": 500000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和8年度】省CO2型システムへの改修支援事業（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "環境",
-        "DX"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }

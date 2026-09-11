@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-11T04:48:40.589030+00:00",
-    "tokyo": "2026-09-11T13:48:40.589030+09:00"
+    "utc": "2026-09-11T11:30:38.777874+00:00",
+    "tokyo": "2026-09-11T20:30:38.777874+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,29 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 385,
+  "count": 384,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-11T07:45:00.000Z",
-      "acceptance_start_datetime": "2026-04-13T01:00:00.000Z",
-      "id": "a0WJ200000CDWngMAH",
-      "institution_name": null,
-      "name": "S-00007730",
-      "subsidy_max_limit": 4000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "設備",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
       "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
@@ -5581,7 +5562,6 @@
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "導入",
         "開発",
