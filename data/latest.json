@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-11T11:30:38.777874+00:00",
-    "tokyo": "2026-09-11T20:30:38.777874+09:00"
+    "utc": "2026-09-11T16:34:31.386966+00:00",
+    "tokyo": "2026-09-12T01:34:31.386966+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,45 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 384,
+  "count": 382,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
-      "id": "a0WJ200000CDXuqMAH",
-      "institution_name": null,
-      "name": "S-00008309",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度医療機関診療情報サイバーセキュリティ対策支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "促進",
-        "デジタル"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-06T00:00:00.000Z",
-      "id": "a0WJ200000CDdNtMAL",
-      "institution_name": null,
-      "name": "S-00009511",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度障害者施設等物価高騰緊急対策事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
       "acceptance_start_datetime": "2026-07-28T06:00:00.000Z",
