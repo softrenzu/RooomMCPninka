@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-13T11:59:55.332649+00:00",
-    "tokyo": "2026-09-13T20:59:55.332649+09:00"
+    "utc": "2026-09-13T16:25:30.728446+00:00",
+    "tokyo": "2026-09-14T01:25:30.728446+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 382,
+  "count": 383,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -2006,6 +2006,25 @@
         "補助",
         "観光",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-13T15:00:00.000Z",
+      "id": "a0WfQ000003Bwa1UAC",
+      "institution_name": null,
+      "name": "S-00009822",
+      "subsidy_max_limit": 20000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度第２回募集　課題解決型技術開発促進事業（試作品開発・改良助成）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "開発",
+        "促進",
+        "DX"
       ]
     },
     {
