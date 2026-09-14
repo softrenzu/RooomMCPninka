@@ -1,8 +1,75 @@
 {
   "generated_at": {
-    "utc": "2026-09-13T23:13:06.575987+00:00",
-    "tokyo": "2026-09-14T08:13:06.575987+09:00"
+    "utc": "2026-09-14T05:04:46.795328+00:00",
+    "tokyo": "2026-09-14T14:04:46.795328+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-30T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+      "id": "a0WJ200000CDeTjMAL",
+      "institution_name": null,
+      "name": "S-00009784",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「情報基盤システムの基本構想に関する分析調査」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+      "id": "a0WJ200000CDeT0MAL",
+      "institution_name": null,
+      "name": "S-00009776",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「2026年度NEDO情報セキュリティ監査業務」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-13T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-14T00:00:00.000Z",
+      "id": "a0WfQ000003EVJxUAO",
+      "institution_name": null,
+      "name": "S-00009847",
+      "subsidy_max_limit": 500000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度（秋公募）コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-20T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+      "id": "a0WJ200000CDeVeMAL",
+      "institution_name": null,
+      "name": "S-00009793",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募",
+      "matched_keywords": [
+        "支援",
+        "開発",
+        "促進",
+        "研究"
+      ]
+    }
+  ]
 }
