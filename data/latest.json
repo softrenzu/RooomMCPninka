@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-14T05:04:46.795328+00:00",
-    "tokyo": "2026-09-14T14:04:46.795328+09:00"
+    "utc": "2026-09-14T12:58:49.503694+00:00",
+    "tokyo": "2026-09-14T21:58:49.503694+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,124 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 387,
+  "count": 380,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-28T06:00:00.000Z",
-      "id": "a0WJ200000CDd5SMAT",
-      "institution_name": null,
-      "name": "S-00009476",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-28T06:00:00.000Z",
-      "id": "a0WJ200000CDYlTMAX",
-      "institution_name": null,
-      "name": "S-00009026",
-      "subsidy_max_limit": 20000000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "開発",
-        "促進",
-        "設備",
-        "研究",
-        "実証",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-14T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDXkTMAX",
-      "institution_name": null,
-      "name": "S-00008193",
-      "subsidy_max_limit": 1500000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度展示会出展助成事業",
-      "matched_keywords": [
-        "事業",
-        "助成",
-        "販路"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-14T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
-      "id": "a0WJ200000CDe6iMAD",
-      "institution_name": null,
-      "name": "S-00009730",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第2回】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-14T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-16T23:30:00.000Z",
-      "id": "a0WJ200000CDYUSMA5",
-      "institution_name": null,
-      "name": "S-00008726",
-      "subsidy_max_limit": 0,
-      "target_area_search": "埼玉県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-14T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-17T01:00:00.000Z",
-      "id": "a0WJ200000CDO8eMAH",
-      "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
-      "name": "S-00006645",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-14T14:59:00.000Z",
       "acceptance_start_datetime": "2026-07-01T00:00:00.000Z",
@@ -2358,24 +2244,6 @@
         "促進",
         "設備",
         "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-27T09:00:00.000Z",
-      "acceptance_start_datetime": "2026-05-21T07:00:00.000Z",
-      "id": "a0WJ200000CDYzQMAX",
-      "institution_name": null,
-      "name": "S-00009166",
-      "subsidy_max_limit": 5500000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度　産業車両等の脱炭素化促進事業のうち、フォークリフトの燃料電池化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
         "環境"
       ]
     },
