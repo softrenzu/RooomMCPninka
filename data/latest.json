@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-15T05:00:50.420527+00:00",
-    "tokyo": "2026-09-15T14:00:50.420527+09:00"
+    "utc": "2026-09-15T11:52:19.112255+00:00",
+    "tokyo": "2026-09-15T20:52:19.112255+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,85 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 382,
+  "count": 385,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-15T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-07T05:00:00.000Z",
-      "id": "a0WJ200000CDdqyMAD",
-      "institution_name": null,
-      "name": "S-00009624",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "開発",
-        "促進",
-        "研究",
-        "実証",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTVMA1",
-      "institution_name": null,
-      "name": "S-00009780",
-      "subsidy_max_limit": 10000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTUMA1",
-      "institution_name": null,
-      "name": "S-00009779",
-      "subsidy_max_limit": 5000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回BCP実践促進助成金（R82BCP）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-15T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-09T00:00:00.000Z",
-      "id": "a0WJ200000CDeTWMA1",
-      "institution_name": null,
-      "name": "S-00009781",
-      "subsidy_max_limit": 5000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "促進",
-        "設備"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-15T14:45:00.000Z",
       "acceptance_start_datetime": "2026-08-24T03:00:00.000Z",
@@ -195,6 +120,27 @@
         "省エネ",
         "地域",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
+      "id": "a0WfQ000003I7MHUA0",
+      "institution_name": null,
+      "name": "S-00009857",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "山形県",
+      "target_number_of_employees": "300名以下",
+      "title": "【山形県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "開発",
+        "促進",
+        "研究",
+        "地域"
       ]
     },
     {
@@ -1333,6 +1279,24 @@
     },
     {
       "acceptance_end_datetime": "2026-09-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WJ200000CDWQzMAP",
+      "institution_name": null,
+      "name": "S-00007621",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "人材",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-09-30T14:59:00.000Z",
       "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
       "id": "a0WJ200000CDaTDMA1",
       "institution_name": null,
@@ -1485,6 +1449,25 @@
     },
     {
       "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WJ200000CDW2EMAX",
+      "institution_name": null,
+      "name": "S-00007523",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "人材",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
       "acceptance_start_datetime": "2026-09-09T15:00:00.000Z",
       "id": "a0WfQ000003BzWHUA0",
       "institution_name": null,
@@ -1544,6 +1527,25 @@
         "開発",
         "研究",
         "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-05T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+      "id": "a0WfQ000003I7irUAC",
+      "institution_name": null,
+      "name": "S-00009859",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "青森県",
+      "target_number_of_employees": "300名以下",
+      "title": "【青森県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "地域"
       ]
     },
     {
@@ -1873,6 +1875,23 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-08-06T00:00:00.000Z",
+      "id": "a0WJ200000CDdNtMAL",
+      "institution_name": null,
+      "name": "S-00009511",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度障害者施設等物価高騰緊急対策事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "地域"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-10-19T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-10T01:00:00.000Z",
       "id": "a0WJ200000CDeN8MAL",
@@ -1921,6 +1940,25 @@
         "補助",
         "促進",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-23T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
+      "id": "a0WfQ000003I7R7UAK",
+      "institution_name": null,
+      "name": "S-00009858",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "秋田県",
+      "target_number_of_employees": "300名以下",
+      "title": "【秋田県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "地域"
       ]
     },
     {
@@ -2162,6 +2200,26 @@
         "事業",
         "開発",
         "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-13T07:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-08T01:00:00.000Z",
+      "id": "a0WfQ000003I7vlUAC",
+      "institution_name": null,
+      "name": "S-00009860",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "岩手県",
+      "target_number_of_employees": "300名以下",
+      "title": "【岩手県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）３次公募",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "研究",
+        "地域"
       ]
     },
     {
