@@ -1,59 +1,20 @@
 {
   "generated_at": {
-    "utc": "2026-09-15T11:52:19.112255+00:00",
-    "tokyo": "2026-09-15T20:52:19.112255+09:00"
+    "utc": "2026-09-15T17:06:01.853086+00:00",
+    "tokyo": "2026-09-16T02:06:01.853086+09:00"
   },
-  "count": 6,
+  "count": 2,
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
-      "id": "a0WfQ000003I7MHUA0",
-      "institution_name": null,
-      "name": "S-00009857",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "山形県",
-      "target_number_of_employees": "300名以下",
-      "title": "【山形県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "開発",
-        "促進",
-        "研究",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WJ200000CDWQzMAP",
-      "institution_name": null,
-      "name": "S-00007621",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
       "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WJ200000CDW2EMAX",
+      "id": "a0WfQ000003IBL3UAO",
       "institution_name": null,
-      "name": "S-00007523",
+      "name": "S-00009863",
       "subsidy_max_limit": 0,
       "target_area_search": "東京都",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
+      "title": "令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
       "matched_keywords": [
         "事業",
         "支援",
@@ -64,61 +25,22 @@
       ]
     },
     {
-      "acceptance_end_datetime": "2026-10-05T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
-      "id": "a0WfQ000003I7irUAC",
+      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WfQ000003I9xZUAS",
       "institution_name": null,
-      "name": "S-00009859",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "青森県",
-      "target_number_of_employees": "300名以下",
-      "title": "【青森県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
+      "name": "S-00009862",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
       "matched_keywords": [
         "事業",
         "支援",
         "補助",
-        "助成",
-        "促進",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-23T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
-      "id": "a0WfQ000003I7R7UAK",
-      "institution_name": null,
-      "name": "S-00009858",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "秋田県",
-      "target_number_of_employees": "300名以下",
-      "title": "【秋田県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-13T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-08T01:00:00.000Z",
-      "id": "a0WfQ000003I7vlUAC",
-      "institution_name": null,
-      "name": "S-00009860",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "岩手県",
-      "target_number_of_employees": "300名以下",
-      "title": "【岩手県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）３次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "研究",
-        "地域"
+        "人材",
+        "地域",
+        "環境"
       ]
     }
   ]
