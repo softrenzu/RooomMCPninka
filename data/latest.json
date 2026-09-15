@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-14T23:53:55.380400+00:00",
-    "tokyo": "2026-09-15T08:53:55.380400+09:00"
+    "utc": "2026-09-15T05:00:50.420527+00:00",
+    "tokyo": "2026-09-15T14:00:50.420527+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 380,
+  "count": 382,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1725,6 +1725,22 @@
     },
     {
       "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-15T01:00:00.000Z",
+      "id": "a0WJ200000CDdMRMA1",
+      "institution_name": null,
+      "name": "S-00009504",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募",
+      "matched_keywords": [
+        "導入",
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
       "id": "a0WfQ000003BrAXUA0",
       "institution_name": null,
@@ -2202,6 +2218,24 @@
         "導入",
         "促進",
         "設備",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-15T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-14T15:00:00.000Z",
+      "id": "a0WJ200000CDeUgMAL",
+      "institution_name": null,
+      "name": "S-00009792",
+      "subsidy_max_limit": 50000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
         "環境"
       ]
     },
