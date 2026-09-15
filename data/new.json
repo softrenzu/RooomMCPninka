@@ -1,47 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-15T17:06:01.853086+00:00",
-    "tokyo": "2026-09-16T02:06:01.853086+09:00"
+    "utc": "2026-09-15T21:27:28.140116+00:00",
+    "tokyo": "2026-09-16T06:27:28.140116+09:00"
   },
-  "count": 2,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WfQ000003IBL3UAO",
-      "institution_name": null,
-      "name": "S-00009863",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WfQ000003I9xZUAS",
-      "institution_name": null,
-      "name": "S-00009862",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
