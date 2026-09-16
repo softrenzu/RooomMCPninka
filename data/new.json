@@ -1,8 +1,145 @@
 {
   "generated_at": {
-    "utc": "2026-09-15T21:27:28.140116+00:00",
-    "tokyo": "2026-09-16T06:27:28.140116+09:00"
+    "utc": "2026-09-16T04:56:37.112959+00:00",
+    "tokyo": "2026-09-16T13:56:37.112959+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-16T01:00:00.000Z",
+      "id": "a0WJ200000CDYbIMAX",
+      "institution_name": null,
+      "name": "S-00008859",
+      "subsidy_max_limit": 400000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "令和８年度リスキリング・キャリアデザイン応援事業-R8",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-04-16T15:00:00.000Z",
+      "id": "a0WJ200000CDXjwMAH",
+      "institution_name": null,
+      "name": "S-00008168",
+      "subsidy_max_limit": 11300000,
+      "target_area_search": "福井県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-25T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-04-16T15:00:00.000Z",
+      "id": "a0WJ200000CDXjxMAH",
+      "institution_name": null,
+      "name": "S-00008169",
+      "subsidy_max_limit": 100000,
+      "target_area_search": "福井県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【福井県】令和８年度 Ｖ２Ｈ充放電設備設置支援事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-25T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-04-16T15:00:00.000Z",
+      "id": "a0WJ200000CDXjyMAH",
+      "institution_name": null,
+      "name": "S-00008170",
+      "subsidy_max_limit": 1500000,
+      "target_area_search": "福井県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【福井県】電気自動車用充電インフラ整備促進事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-15T08:00:00.000Z",
+      "id": "a0WfQ000003CWvFUAW",
+      "institution_name": null,
+      "name": "S-00009827",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "燃料電池フォークリフト実装支援事業助成金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "導入",
+        "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-04-16T15:00:00.000Z",
+      "id": "a0WJ200000CDXjzMAH",
+      "institution_name": null,
+      "name": "S-00008171",
+      "subsidy_max_limit": 500000,
+      "target_area_search": "福井県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【福井県】次世代自動車普及促進事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-05-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-16T00:00:00.000Z",
+      "id": "a0WfQ000003DRDZUA4",
+      "institution_name": null,
+      "name": "S-00009842",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "設備",
+        "人材",
+        "環境"
+      ]
+    }
+  ]
 }
