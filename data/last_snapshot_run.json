@@ -1,20 +1,15 @@
 {
   "started_at": {
-    "utc": "2026-09-16T11:45:06.864793+00:00",
-    "tokyo": "2026-09-16T20:45:06.864793+09:00"
+    "utc": "2026-09-16T17:05:51.555605+00:00",
+    "tokyo": "2026-09-17T02:05:51.555605+09:00"
   },
   "errors": [],
   "snapshot": {
-    "count": 391,
-    "query_errors": [
-      {
-        "keyword": "環境",
-        "error": "JグランツAPI取得失敗: https://api.jgrants-portal.go.jp/exp/v1/public/subsidies?keyword=%E7%92%B0%E5%A2%83&acceptance=1&sort=created_date&order=DESC: HTTP Error 500: Internal Server Error"
-      }
-    ]
+    "count": 394,
+    "query_errors": []
   },
   "finished_at": {
-    "utc": "2026-09-16T11:46:01.912407+00:00",
-    "tokyo": "2026-09-16T20:46:01.912407+09:00"
+    "utc": "2026-09-16T17:06:14.917971+00:00",
+    "tokyo": "2026-09-17T02:06:14.917971+09:00"
   }
 }
