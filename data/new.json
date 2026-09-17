@@ -1,8 +1,25 @@
 {
   "generated_at": {
-    "utc": "2026-09-16T21:23:29.917626+00:00",
-    "tokyo": "2026-09-17T06:23:29.917626+09:00"
+    "utc": "2026-09-17T04:59:09.480082+00:00",
+    "tokyo": "2026-09-17T13:59:09.480082+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-17T01:00:00.000Z",
+      "id": "a0WJ200000CDeTZMA1",
+      "institution_name": null,
+      "name": "S-00009782",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究"
+      ]
+    }
+  ]
 }
