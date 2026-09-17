@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-17T04:59:09.480082+00:00",
-    "tokyo": "2026-09-17T13:59:09.480082+09:00"
+    "utc": "2026-09-17T11:50:07.658766+00:00",
+    "tokyo": "2026-09-17T20:50:07.658766+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 395,
+  "count": 397,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1838,6 +1838,28 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-17T05:00:00.000Z",
+      "id": "a0WJ200000CDeZuMAL",
+      "institution_name": null,
+      "name": "S-00009816",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "デジタル",
+        "地域",
+        "環境"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
       "acceptance_start_datetime": "2026-07-27T08:00:00.000Z",
       "id": "a0WJ200000CDWp3MAH",
@@ -1913,6 +1935,25 @@
         "補助",
         "設備",
         "販路",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-17T05:00:00.000Z",
+      "id": "a0W5h00000ZueXcEAJ",
+      "institution_name": "ドローンを活用したツアー造成支援事業",
+      "name": "S-00004742",
+      "subsidy_max_limit": 5000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "ドローンを活用したツアー造成支援補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "促進",
+        "観光",
         "地域",
         "環境"
       ]
@@ -2487,6 +2528,7 @@
       "title": "令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）",
       "matched_keywords": [
         "事業",
+        "支援",
         "補助",
         "促進",
         "環境"
@@ -3478,7 +3520,7 @@
       "acceptance_end_datetime": "2027-01-29T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-08T00:00:00.000Z",
       "id": "a0WJ200000CDYSPMA5",
-      "institution_name": "子育て支援型共同住宅推進事業",
+      "institution_name": null,
       "name": "S-00008696",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
@@ -3779,7 +3821,7 @@
       "acceptance_end_datetime": "2027-02-26T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-08T00:00:00.000Z",
       "id": "a0WJ200000CDYSAMA5",
-      "institution_name": "子育て支援型共同住宅推進事業",
+      "institution_name": null,
       "name": "S-00008693",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
@@ -3795,7 +3837,7 @@
       "acceptance_end_datetime": "2027-02-26T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-08T00:00:00.000Z",
       "id": "a0WJ200000CDYSFMA5",
-      "institution_name": "子育て支援型共同住宅推進事業",
+      "institution_name": null,
       "name": "S-00008694",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
