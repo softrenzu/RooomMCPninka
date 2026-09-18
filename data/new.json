@@ -1,8 +1,141 @@
 {
   "generated_at": {
-    "utc": "2026-09-17T21:28:18.002449+00:00",
-    "tokyo": "2026-09-18T06:28:18.002449+09:00"
+    "utc": "2026-09-18T04:51:23.802095+00:00",
+    "tokyo": "2026-09-18T13:51:23.802095+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-09-30T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
+      "id": "a0WJ200000CDeY5MAL",
+      "institution_name": null,
+      "name": "S-00009809",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "促進",
+        "研究",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-18T00:00:00.000Z",
+      "id": "a0WJ200000CDeXvMAL",
+      "institution_name": null,
+      "name": "S-00009807",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "福岡県",
+      "target_number_of_employees": "300名以下",
+      "title": "【福岡県3次】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
+      "id": "a0WfQ000003CVHdUAO",
+      "institution_name": null,
+      "name": "S-00009826",
+      "subsidy_max_limit": 700000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度　ＺＥＢ実証事業（三次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "実証",
+        "省エネ",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-19T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
+      "id": "a0WJ200000CDeY0MAL",
+      "institution_name": null,
+      "name": "S-00009808",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「水素社会モデル構築高度化技術開発・実証事業」の第2回公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-22T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
+      "id": "a0WJ200000CDeOLMA1",
+      "institution_name": "P07015_風力発電等導入支援事業",
+      "name": "S-00009763",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「地盤・海象・気象等の調査・観測技術の高度化・高効率化に関する研究開発」　の公募",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "導入",
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WJ200000CDWQkMAP",
+      "institution_name": null,
+      "name": "S-00007618",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "×令和６年度勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "人材",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-05-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-16T00:00:00.000Z",
+      "id": "a0WfQ000003MWE2UAO",
+      "institution_name": null,
+      "name": "S-00009883",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度　病院勤務者勤務環境改善事業・救急医療体制強化事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "設備",
+        "人材",
+        "環境"
+      ]
+    }
+  ]
 }
