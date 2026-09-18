@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-18T11:25:14.763908+00:00",
-    "tokyo": "2026-09-18T20:25:14.763908+09:00"
+    "utc": "2026-09-18T16:31:08.298413+00:00",
+    "tokyo": "2026-09-19T01:31:08.298413+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -4950,14 +4950,13 @@
       "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
       "id": "a0WJ200000CDYsSMAX",
-      "institution_name": null,
+      "institution_name": "【三重県鈴鹿市】創業促進補助金",
       "name": "S-00009101",
       "subsidy_max_limit": 300000,
       "target_area_search": "三重県",
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【三重県　鈴鹿市】令和8年度創業促進補助金",
       "matched_keywords": [
-        "支援",
         "補助",
         "促進"
       ]
