@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-18T04:51:23.802095+00:00",
-    "tokyo": "2026-09-18T13:51:23.802095+09:00"
+    "utc": "2026-09-18T11:25:14.763908+00:00",
+    "tokyo": "2026-09-18T20:25:14.763908+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,134 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 403,
+  "count": 397,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-06-18T07:00:00.000Z",
-      "id": "a0WJ200000CDb6JMAT",
-      "institution_name": null,
-      "name": "S-00009353",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］",
-      "matched_keywords": [
-        "事業",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
-      "id": "a0WfQ000003I7MHUA0",
-      "institution_name": null,
-      "name": "S-00009857",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "山形県",
-      "target_number_of_employees": "300名以下",
-      "title": "【山形県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "開発",
-        "促進",
-        "研究",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-28T01:00:00.000Z",
-      "id": "a0WJ200000CDe8MMAT",
-      "institution_name": null,
-      "name": "S-00009734",
-      "subsidy_max_limit": 30950204,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和７年度補正　米粉商品開発等支援対策事業　2次募集",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "開発",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T00:00:00.000Z",
-      "id": "a0WJ200000CDdmfMAD",
-      "institution_name": null,
-      "name": "S-00009587",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T00:00:00.000Z",
-      "id": "a0WJ200000CDdmVMAT",
-      "institution_name": null,
-      "name": "S-00009586",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-24T00:00:00.000Z",
-      "id": "a0WJ200000CDdmpMAD",
-      "institution_name": null,
-      "name": "S-00009588",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度　ＦＳ調査事業　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-24T14:59:00.000Z",
       "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
@@ -1888,7 +1764,7 @@
       "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
       "acceptance_start_datetime": "2026-07-27T06:00:00.000Z",
       "id": "a0WJ200000CDdALMA1",
-      "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞",
+      "institution_name": null,
       "name": "S-00009485",
       "subsidy_max_limit": 2000000,
       "target_area_search": "石川県",
@@ -2335,6 +2211,7 @@
       "title": "令和７年度勤務環境改善体制医師派遣等推進事業",
       "matched_keywords": [
         "事業",
+        "支援",
         "補助",
         "人材",
         "地域",
@@ -4009,6 +3886,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和８年度サテライトオフィス勤務導入奨励金",
       "matched_keywords": [
+        "事業",
         "支援",
         "導入",
         "促進",
@@ -4026,6 +3904,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和８年度テレワーク定着強化奨励金",
       "matched_keywords": [
+        "事業",
         "支援",
         "環境"
       ]
@@ -4041,6 +3920,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和８年度ワーケーション勤務導入奨励金",
       "matched_keywords": [
+        "事業",
         "支援",
         "導入",
         "促進",
@@ -5765,6 +5645,8 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和8年度「年収の壁突破」総合対策促進奨励金",
       "matched_keywords": [
+        "事業",
+        "支援",
         "促進",
         "環境"
       ]
@@ -6981,7 +6863,6 @@
       "title": "令和8年度【2年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
@@ -7000,7 +6881,6 @@
       "title": "令和8年度【3年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
