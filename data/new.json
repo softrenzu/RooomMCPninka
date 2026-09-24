@@ -1,8 +1,43 @@
 {
   "generated_at": {
-    "utc": "2026-09-23T21:35:21.379037+00:00",
-    "tokyo": "2026-09-24T06:35:21.379037+09:00"
+    "utc": "2026-09-24T05:00:21.982937+00:00",
+    "tokyo": "2026-09-24T14:00:21.982937+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-07T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-24T01:00:00.000Z",
+      "id": "a0WJ200000CDeZLMA1",
+      "institution_name": null,
+      "name": "S-00009815",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「カーボンリサイクル・火力発電の脱炭素化技術等国際協力事業／カーボンマネジメントに係る国際連携事業／カーボンリサイクル関連技術及び脱炭素化技術等の海外展開可能性の調査」の公募について",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-23T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-24T00:00:00.000Z",
+      "id": "a0WJ200000CDYtoMAH",
+      "institution_name": null,
+      "name": "S-00009116",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "香川県",
+      "target_number_of_employees": "300名以下",
+      "title": "【香川県】令和８年度中小企業等海外展開支援事業費補助金（海外出願支援事業）第３次募集",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "地域"
+      ]
+    }
+  ]
 }
