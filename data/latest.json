@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-24T11:55:51.202884+00:00",
-    "tokyo": "2026-09-24T20:55:51.202884+09:00"
+    "utc": "2026-09-24T17:17:49.269144+00:00",
+    "tokyo": "2026-09-25T02:17:49.269144+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,46 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 399,
+  "count": 397,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-24T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
-      "id": "a0WJ200000CDeXgMAL",
-      "institution_name": null,
-      "name": "S-00009805",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-24T15:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
-      "id": "a0W5h00000UcWrwEAF",
-      "institution_name": "東京都専門医認定支援事業補助金",
-      "name": "S-00004124",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都専門医認定支援事業補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
