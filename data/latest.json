@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-25T05:04:42.601293+00:00",
-    "tokyo": "2026-09-25T14:04:42.601293+09:00"
+    "utc": "2026-09-25T11:58:03.665134+00:00",
+    "tokyo": "2026-09-25T20:58:03.665134+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,77 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 390,
+  "count": 388,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T00:00:00.000Z",
-      "id": "a0WJ200000CDeQhMAL",
-      "institution_name": null,
-      "name": "S-00009765",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "熊本県",
-      "target_number_of_employees": "300名以下",
-      "title": "【熊本県２次】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-06-27T00:00:00.000Z",
-      "id": "a0WJ200000CDcODMA1",
-      "institution_name": null,
-      "name": "S-00009431",
-      "subsidy_max_limit": 20000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
-      "id": "a0WJ200000CDe3WMAT",
-      "institution_name": null,
-      "name": "S-00009683",
-      "subsidy_max_limit": 600000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国商標出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
-      "id": "a0WJ200000CDe3RMAT",
-      "institution_name": null,
-      "name": "S-00009682",
-      "subsidy_max_limit": 600000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国意匠出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-25T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-16T15:00:00.000Z",
@@ -1859,6 +1792,26 @@
     },
     {
       "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-23T15:00:00.000Z",
+      "id": "a0WfQ000003a9flUAA",
+      "institution_name": null,
+      "name": "S-00009899",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "鳥取県",
+      "target_number_of_employees": "300名以下",
+      "title": "【鳥取県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（三次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
+        "促進",
+        "研究",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
       "acceptance_start_datetime": "2026-09-13T15:00:00.000Z",
       "id": "a0WfQ000003Bwa1UAC",
       "institution_name": null,
@@ -3109,6 +3062,25 @@
         "事業",
         "補助",
         "設備"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WJ200000CDVm7MAH",
+      "institution_name": null,
+      "name": "S-00007438",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "設備",
+        "人材",
+        "環境"
       ]
     },
     {
