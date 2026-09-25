@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-24T21:35:33.723037+00:00",
-    "tokyo": "2026-09-25T06:35:33.723037+09:00"
+    "utc": "2026-09-25T05:04:42.601293+00:00",
+    "tokyo": "2026-09-25T14:04:42.601293+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,207 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 397,
+  "count": 390,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
-      "id": "a0WJ200000CDYiwMAH",
-      "institution_name": null,
-      "name": "S-00008991",
-      "subsidy_max_limit": 7297000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
-      "id": "a0WJ200000CDYjRMAX",
-      "institution_name": null,
-      "name": "S-00008997",
-      "subsidy_max_limit": 7297000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
-      "id": "a0WJ200000CDYkCMAX",
-      "institution_name": null,
-      "name": "S-00009012",
-      "subsidy_max_limit": 7297000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
-      "id": "a0WJ200000CDYkHMAX",
-      "institution_name": null,
-      "name": "S-00009013",
-      "subsidy_max_limit": 7297000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-25T02:00:00.000Z",
-      "id": "a0WJ200000CDYk0MAH",
-      "institution_name": null,
-      "name": "S-00009004",
-      "subsidy_max_limit": 7297000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-21T03:00:00.000Z",
-      "id": "a0WJ200000CDczgMAD",
-      "institution_name": null,
-      "name": "S-00009464",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和７年度補正 グローバルサウス未来志向型共創等事業費補助金（ウクライナ復興支援に向けた欧州企業連携・中東欧諸国等連携強化）（FS実証・実証事業実施事業者の募集（補助））】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "実証"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeNwMAL",
-      "institution_name": null,
-      "name": "S-00009759",
-      "subsidy_max_limit": 340000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "開発",
-        "設備",
-        "人材",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeNSMA1",
-      "institution_name": null,
-      "name": "S-00009757",
-      "subsidy_max_limit": 660000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "開発",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeO6MAL",
-      "institution_name": null,
-      "name": "S-00009761",
-      "subsidy_max_limit": 2900000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "開発",
-        "設備",
-        "人材",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeO1MAL",
-      "institution_name": null,
-      "name": "S-00009760",
-      "subsidy_max_limit": 1200000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "開発",
-        "設備",
-        "研究",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
       "acceptance_start_datetime": "2026-08-31T00:00:00.000Z",
@@ -1657,6 +1460,21 @@
     },
     {
       "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T01:00:00.000Z",
+      "id": "a0WfQ000003F3K1UAK",
+      "institution_name": null,
+      "name": "S-00009850",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
       "id": "a0WJ200000CDKZFMA5",
       "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
@@ -1967,6 +1785,23 @@
         "補助",
         "助成",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-26T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T01:00:00.000Z",
+      "id": "a0WJ200000CDdl2MAD",
+      "institution_name": null,
+      "name": "S-00009581",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "実証"
       ]
     },
     {
@@ -2614,6 +2449,24 @@
         "補助",
         "助成",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
+      "id": "a0WfQ000003ENsfUAG",
+      "institution_name": null,
+      "name": "S-00009846",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備"
       ]
     },
     {

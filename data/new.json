@@ -1,8 +1,59 @@
 {
   "generated_at": {
-    "utc": "2026-09-24T21:35:33.723037+00:00",
-    "tokyo": "2026-09-25T06:35:33.723037+09:00"
+    "utc": "2026-09-25T05:04:42.601293+00:00",
+    "tokyo": "2026-09-25T14:04:42.601293+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T01:00:00.000Z",
+      "id": "a0WfQ000003F3K1UAK",
+      "institution_name": null,
+      "name": "S-00009850",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-26T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T01:00:00.000Z",
+      "id": "a0WJ200000CDdl2MAD",
+      "institution_name": null,
+      "name": "S-00009581",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
+      "id": "a0WfQ000003ENsfUAG",
+      "institution_name": null,
+      "name": "S-00009846",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備"
+      ]
+    }
+  ]
 }
