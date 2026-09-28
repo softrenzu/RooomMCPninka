@@ -1,67 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-28T05:32:39.383253+00:00",
-    "tokyo": "2026-09-28T14:32:39.383253+09:00"
+    "utc": "2026-09-28T14:07:35.511678+00:00",
+    "tokyo": "2026-09-28T23:07:35.511678+09:00"
   },
-  "count": 3,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-27T15:00:00.000Z",
-      "id": "a0WfQ000003cYWnUAM",
-      "institution_name": null,
-      "name": "S-00009907",
-      "subsidy_max_limit": 150000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "促進",
-        "設備",
-        "AI"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-28T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-28T00:00:00.000Z",
-      "id": "a0WfQ000003EZsDUAW",
-      "institution_name": null,
-      "name": "S-00009848",
-      "subsidy_max_limit": 20000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2027-01-29T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-28T05:00:00.000Z",
-      "id": "a0WfQ000003ZH5uUAG",
-      "institution_name": null,
-      "name": "S-00009898",
-      "subsidy_max_limit": 1500000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度第２回中小企業デジタル導入促進補助事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "導入",
-        "促進",
-        "デジタル",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }

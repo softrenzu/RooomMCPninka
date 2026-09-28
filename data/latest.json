@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-09-28T05:32:39.383253+00:00",
-    "tokyo": "2026-09-28T14:32:39.383253+09:00"
+    "utc": "2026-09-28T14:07:35.511678+00:00",
+    "tokyo": "2026-09-28T23:07:35.511678+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,45 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 390,
+  "count": 388,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
-      "id": "a0WJ200000CDe3zMAD",
-      "institution_name": null,
-      "name": "S-00009687",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "300名以下",
-      "title": "【令和８年度・第４回】INPIT外国出願補助金",
-      "matched_keywords": [
-        "支援",
-        "補助",
-        "促進",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
-      "acceptance_start_datetime": "2025-02-14T08:00:00.000Z",
-      "id": "a0WJ200000CDTzMMAX",
-      "institution_name": null,
-      "name": "S-00007152",
-      "subsidy_max_limit": 40000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-      "matched_keywords": [
-        "補助",
-        "導入",
-        "開発",
-        "促進",
-        "設備"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-09-29T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-20T01:00:00.000Z",
@@ -3073,7 +3038,7 @@
       "acceptance_end_datetime": "2026-12-30T15:00:00.000Z",
       "acceptance_start_datetime": "2025-11-03T15:00:00.000Z",
       "id": "a0WJ200000CDQuHMAX",
-      "institution_name": "NBC災害・テロ対策設備整備費補助事業",
+      "institution_name": null,
       "name": "S-00006942",
       "subsidy_max_limit": 33762000,
       "target_area_search": "東京都",
@@ -5681,7 +5646,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【三重】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5700,7 +5664,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5753,7 +5716,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【兵庫】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5791,7 +5753,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【千葉】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5810,7 +5771,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【和歌山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5829,7 +5789,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【埼玉】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5867,7 +5826,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【大阪】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5886,7 +5844,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5905,7 +5862,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【宮城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5943,7 +5899,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【富山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5962,7 +5917,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山口】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -5981,7 +5935,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6000,7 +5953,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6019,7 +5971,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【岐阜】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6038,7 +5989,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【岡山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6057,7 +6007,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【岩手】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6076,7 +6025,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【島根】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6095,7 +6043,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【広島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6114,7 +6061,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6152,7 +6098,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【愛知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6171,7 +6116,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【新潟】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6190,7 +6134,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【東京】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6209,7 +6152,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【栃木】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6247,7 +6189,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【滋賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6285,7 +6226,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【石川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6304,7 +6244,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【神奈川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6323,7 +6262,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6361,7 +6299,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6380,7 +6317,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6399,7 +6335,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【群馬】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6418,7 +6353,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6456,7 +6390,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【長野】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6475,7 +6408,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【青森】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6494,7 +6426,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
@@ -6551,7 +6482,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【鳥取】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "設備",
