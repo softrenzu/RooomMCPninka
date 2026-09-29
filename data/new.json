@@ -1,8 +1,26 @@
 {
   "generated_at": {
-    "utc": "2026-09-28T21:16:11.689845+00:00",
-    "tokyo": "2026-09-29T06:16:11.689845+09:00"
+    "utc": "2026-09-29T01:04:07.837846+00:00",
+    "tokyo": "2026-09-29T10:04:07.837846+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-08T15:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-29T01:00:00.000Z",
+      "id": "a0WfQ000003JPFVUA4",
+      "institution_name": null,
+      "name": "S-00009873",
+      "subsidy_max_limit": 4000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "令和８年度第２回　創業助成事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "導入"
+      ]
+    }
+  ]
 }
