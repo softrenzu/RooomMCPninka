@@ -1,27 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-09-29T09:56:49.537508+00:00",
-    "tokyo": "2026-09-29T18:56:49.537508+09:00"
+    "utc": "2026-09-29T18:07:51.677141+00:00",
+    "tokyo": "2026-09-30T03:07:51.677141+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-11-12T06:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-29T04:00:00.000Z",
-      "id": "a0WJ200000CDdjfMAD",
-      "institution_name": null,
-      "name": "S-00009572",
-      "subsidy_max_limit": 500000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "[３次公募]中小企業成長加速化補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "地域",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
