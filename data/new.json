@@ -1,8 +1,58 @@
 {
   "generated_at": {
-    "utc": "2026-09-30T12:45:34.647603+00:00",
-    "tokyo": "2026-09-30T21:45:34.647603+09:00"
+    "utc": "2026-09-30T20:06:06.951004+00:00",
+    "tokyo": "2026-10-01T05:06:06.951004+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
+      "id": "a0W5h00000UcDDXEA3",
+      "institution_name": null,
+      "name": "S-00004027",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "東京都広域団体認定訓練助成金",
+      "matched_keywords": [
+        "助成",
+        "人材"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
+      "id": "a0WfQ000003aZqLUAU",
+      "institution_name": null,
+      "name": "S-00009903",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "成田空港の次代を担う若者の奨学金返還支援事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
+      "id": "a0WJ200000CDeRiMAL",
+      "institution_name": null,
+      "name": "S-00009769",
+      "subsidy_max_limit": 1000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "300名以下",
+      "title": "令和8年度_受動喫煙防止対策助成金",
+      "matched_keywords": [
+        "事業",
+        "助成",
+        "設備",
+        "環境"
+      ]
+    }
+  ]
 }
