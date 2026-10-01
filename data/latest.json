@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-01T10:15:50.396673+00:00",
-    "tokyo": "2026-10-01T19:15:50.396673+09:00"
+    "utc": "2026-10-01T18:27:48.555410+00:00",
+    "tokyo": "2026-10-02T03:27:48.555410+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,46 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 349,
+  "count": 347,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-01T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDe6OMAT",
-      "institution_name": null,
-      "name": "S-00009715",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "岡山県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【岡山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "matched_keywords": [
-        "支援",
-        "助成",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-01T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDe66MAD",
-      "institution_name": null,
-      "name": "S-00009702",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "長野県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【長野】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "matched_keywords": [
-        "支援",
-        "助成",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
