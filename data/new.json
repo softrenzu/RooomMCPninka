@@ -1,179 +1,45 @@
 {
   "generated_at": {
-    "utc": "2026-10-01T00:35:56.081914+00:00",
-    "tokyo": "2026-10-01T09:35:56.081914+09:00"
+    "utc": "2026-10-01T10:15:50.396673+00:00",
+    "tokyo": "2026-10-01T19:15:50.396673+09:00"
   },
-  "count": 10,
+  "count": 2,
   "items": [
     {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDe3uMAD",
+      "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+      "id": "a0WfQ000003N8hVUAS",
       "institution_name": null,
-      "name": "S-00009686",
-      "subsidy_max_limit": 600000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国実用新案出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDe3pMAD",
-      "institution_name": null,
-      "name": "S-00009685",
-      "subsidy_max_limit": 4000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国特許出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-26T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WfQ000003K34rUAC",
-      "institution_name": null,
-      "name": "S-00009881",
-      "subsidy_max_limit": 15000000,
-      "target_area_search": "東京都",
+      "name": "S-00009897",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度地域資源活用製品等の開発・販売促進事業　開発・改良フェーズ",
+      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】",
+      "matched_keywords": [
+        "事業",
+        "補助",
+        "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+      "id": "a0WfQ000003JPtqUAG",
+      "institution_name": null,
+      "name": "S-00009879",
+      "subsidy_max_limit": 20000000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】",
       "matched_keywords": [
         "事業",
         "支援",
-        "助成",
-        "導入",
+        "補助",
         "開発",
         "促進",
-        "販路",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aN9KUAU",
-      "institution_name": null,
-      "name": "S-00009901",
-      "subsidy_max_limit": 2400000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "開発",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aSfBUAU",
-      "institution_name": null,
-      "name": "S-00009900",
-      "subsidy_max_limit": 1900000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都正規雇用転換安定化支援助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aUAjUAM",
-      "institution_name": null,
-      "name": "S-00009902",
-      "subsidy_max_limit": 1260000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都若者世代職場定着促進助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeSxMAL",
-      "institution_name": null,
-      "name": "S-00009774",
-      "subsidy_max_limit": 1800000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "女性の活躍推進に向けた職場環境改善奨励金　奨励金請求",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeSyMAL",
-      "institution_name": null,
-      "name": "S-00009775",
-      "subsidy_max_limit": 1800000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "女性の活躍推進に向けた職場環境改善奨励金　実績報告",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeSwMAL",
-      "institution_name": null,
-      "name": "S-00009773",
-      "subsidy_max_limit": 200000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "100名以下",
-      "title": "女性活躍情報公開促進奨励金　奨励金請求",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "促進",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDeSvMAL",
-      "institution_name": null,
-      "name": "S-00009772",
-      "subsidy_max_limit": 200000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "100名以下",
-      "title": "女性活躍情報公開促進奨励金　実績報告",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "促進",
+        "設備",
+        "研究",
+        "実証",
         "環境"
       ]
     }

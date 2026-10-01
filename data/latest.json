@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-01T00:35:56.081914+00:00",
-    "tokyo": "2026-10-01T09:35:56.081914+09:00"
+    "utc": "2026-10-01T10:15:50.396673+00:00",
+    "tokyo": "2026-10-01T19:15:50.396673+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,56 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 353,
+  "count": 349,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-      "id": "a0WJ200000CDYQnMAP",
-      "institution_name": null,
-      "name": "S-00008678",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国侵害調査費用助成事業",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-      "id": "a0WJ200000CDYRHMA5",
-      "institution_name": null,
-      "name": "S-00008685",
-      "subsidy_max_limit": 100000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国著作権登録費用助成事業",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-      "id": "a0WJ200000CDYQoMAP",
-      "institution_name": null,
-      "name": "S-00008679",
-      "subsidy_max_limit": 1000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度特許調査費用助成事業",
-      "matched_keywords": [
-        "事業",
-        "助成",
-        "開発"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-01T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -184,25 +138,6 @@
         "促進",
         "研究",
         "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WJ200000CDW2EMAX",
-      "institution_name": null,
-      "name": "S-00007523",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
       ]
     },
     {
@@ -1642,25 +1577,6 @@
     },
     {
       "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WJ200000CDWQkMAP",
-      "institution_name": null,
-      "name": "S-00007618",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "×令和６年度勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
       "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
       "id": "a0WJ200000CDY6uMAH",
       "institution_name": null,
@@ -2002,6 +1918,44 @@
         "設備",
         "省エネ",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+      "id": "a0WfQ000003N8hVUAS",
+      "institution_name": null,
+      "name": "S-00009897",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】",
+      "matched_keywords": [
+        "事業",
+        "補助",
+        "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+      "id": "a0WfQ000003JPtqUAG",
+      "institution_name": null,
+      "name": "S-00009879",
+      "subsidy_max_limit": 20000000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "開発",
+        "促進",
+        "設備",
+        "研究",
+        "実証",
+        "環境"
       ]
     },
     {
@@ -5615,25 +5569,6 @@
       "target_area_search": "東京都",
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和８年度　病院勤務者勤務環境改善事業・救急医療体制強化事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "人材",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2027-05-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-16T00:00:00.000Z",
-      "id": "a0WfQ000003DRDZUA4",
-      "institution_name": null,
-      "name": "S-00009842",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
       "matched_keywords": [
         "事業",
         "支援",
