@@ -1,8 +1,182 @@
 {
   "generated_at": {
-    "utc": "2026-10-02T00:52:15.683764+00:00",
-    "tokyo": "2026-10-02T09:52:15.683764+09:00"
+    "utc": "2026-10-02T09:53:16.968203+00:00",
+    "tokyo": "2026-10-02T18:53:16.968203+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-23T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T03:00:00.000Z",
+      "id": "a0WfQ000003GpG9UAK",
+      "institution_name": null,
+      "name": "S-00009854",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・ＦＳ事業：二次公募）（ＦＳ・小規模実証事業実施事業者の募集（補助））",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "実証",
+        "DX"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RXUA0",
+      "institution_name": null,
+      "name": "S-00009890",
+      "subsidy_max_limit": 1500000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RYUA0",
+      "institution_name": null,
+      "name": "S-00009891",
+      "subsidy_max_limit": 10000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RaUAK",
+      "institution_name": null,
+      "name": "S-00009893",
+      "subsidy_max_limit": 10000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "設備",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RZUA0",
+      "institution_name": null,
+      "name": "S-00009892",
+      "subsidy_max_limit": 4500000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RWUA0",
+      "institution_name": null,
+      "name": "S-00009889",
+      "subsidy_max_limit": 20000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RVUA0",
+      "institution_name": null,
+      "name": "S-00009888",
+      "subsidy_max_limit": 8000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RbUAK",
+      "institution_name": null,
+      "name": "S-00009894",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    }
+  ]
 }

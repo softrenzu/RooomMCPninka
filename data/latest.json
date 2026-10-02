@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-02T00:52:15.683764+00:00",
-    "tokyo": "2026-10-02T09:52:15.683764+09:00"
+    "utc": "2026-10-02T09:53:16.968203+00:00",
+    "tokyo": "2026-10-02T18:53:16.968203+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,83 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 347,
+  "count": 351,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
-      "id": "a0WJ200000CDeT0MAL",
-      "institution_name": null,
-      "name": "S-00009776",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「2026年度NEDO情報セキュリティ監査業務」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
-      "id": "a0WJ200000CDeY5MAL",
-      "institution_name": null,
-      "name": "S-00009809",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "促進",
-        "研究",
-        "実証"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-27T06:00:00.000Z",
-      "id": "a0WJ200000CDeSJMA1",
-      "institution_name": null,
-      "name": "S-00009771",
-      "subsidy_max_limit": 60000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-02T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-03T15:00:00.000Z",
-      "id": "a0WfQ000003DgHRUA0",
-      "institution_name": null,
-      "name": "S-00009844",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "山口県",
-      "target_number_of_employees": "300名以下",
-      "title": "【山口県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "研究",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -115,6 +42,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【和歌山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -133,6 +61,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【滋賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -151,6 +80,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【石川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -169,6 +99,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【群馬】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -204,6 +135,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【鳥取】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -222,6 +154,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -240,6 +173,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -258,6 +192,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -429,6 +364,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山口】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -598,6 +534,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【島根】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -616,6 +553,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【広島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -669,6 +607,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -703,6 +642,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -805,6 +745,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【福島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1076,6 +1017,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1170,6 +1112,24 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-10-23T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T03:00:00.000Z",
+      "id": "a0WfQ000003GpG9UAK",
+      "institution_name": null,
+      "name": "S-00009854",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・ＦＳ事業：二次公募）（ＦＳ・小規模実証事業実施事業者の募集（補助））",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "実証",
+        "DX"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-10-23T08:00:00.000Z",
       "acceptance_start_datetime": "2026-08-24T01:00:00.000Z",
       "id": "a0WfQ000003I7R7UAK",
@@ -1217,6 +1177,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【宮崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1310,6 +1271,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【青森】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1328,6 +1290,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【高知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1346,6 +1309,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1714,6 +1678,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【大分】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1732,6 +1697,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1750,6 +1716,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1768,6 +1735,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【愛媛】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1857,6 +1825,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -1920,6 +1889,161 @@
         "研究",
         "実証",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RXUA0",
+      "institution_name": null,
+      "name": "S-00009890",
+      "subsidy_max_limit": 1500000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RYUA0",
+      "institution_name": null,
+      "name": "S-00009891",
+      "subsidy_max_limit": 10000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RaUAK",
+      "institution_name": null,
+      "name": "S-00009893",
+      "subsidy_max_limit": 10000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "設備",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RZUA0",
+      "institution_name": null,
+      "name": "S-00009892",
+      "subsidy_max_limit": 4500000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RWUA0",
+      "institution_name": null,
+      "name": "S-00009889",
+      "subsidy_max_limit": 20000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RVUA0",
+      "institution_name": null,
+      "name": "S-00009888",
+      "subsidy_max_limit": 8000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-06T08:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-02T06:00:00.000Z",
+      "id": "a0WfQ000003N1RbUAK",
+      "institution_name": null,
+      "name": "S-00009894",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "開発",
+        "促進",
+        "研究",
+        "観光",
+        "地域"
       ]
     },
     {
@@ -2044,6 +2168,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -2062,6 +2187,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -2330,6 +2456,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【岩手】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -2348,6 +2475,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【沖縄】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -2366,6 +2494,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【熊本】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
       "matched_keywords": [
+        "事業",
         "支援",
         "助成",
         "設備",
@@ -3020,7 +3149,7 @@
       "acceptance_end_datetime": "2026-12-30T15:00:00.000Z",
       "acceptance_start_datetime": "2025-11-03T15:00:00.000Z",
       "id": "a0WJ200000CDQuHMAX",
-      "institution_name": null,
+      "institution_name": "NBC災害・テロ対策設備整備費補助事業",
       "name": "S-00006942",
       "subsidy_max_limit": 33762000,
       "target_area_search": "東京都",
@@ -3903,7 +4032,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "松山港利用促進インセンティブ補助金（荷主向け）",
       "matched_keywords": [
-        "支援",
         "補助",
         "促進",
         "地域"
@@ -5838,7 +5966,6 @@
       "title": "令和7年度【3年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
@@ -6004,7 +6131,6 @@
       "title": "令和7年度　ES（社員満足度）向上による若手人材確保・定着事業助成金　１年目申請用",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
