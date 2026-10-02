@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-01T18:27:48.555410+00:00",
-    "tokyo": "2026-10-02T03:27:48.555410+09:00"
+    "utc": "2026-10-02T00:52:15.683764+00:00",
+    "tokyo": "2026-10-02T09:52:15.683764+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2130,6 +2130,24 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-11-20T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
+      "id": "a0WfQ000003ENsfUAG",
+      "institution_name": null,
+      "name": "S-00009846",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-11-27T15:00:00.000Z",
       "acceptance_start_datetime": "2026-03-24T04:00:00.000Z",
       "id": "a0WJ200000CDY5GMAX",
@@ -2299,24 +2317,6 @@
         "補助",
         "助成",
         "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
-      "id": "a0WfQ000003ENsfUAG",
-      "institution_name": null,
-      "name": "S-00009846",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "設備"
       ]
     },
     {
