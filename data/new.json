@@ -1,30 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-10-05T05:50:56.088721+00:00",
-    "tokyo": "2026-10-05T14:50:56.088721+09:00"
+    "utc": "2026-10-05T14:53:11.351679+00:00",
+    "tokyo": "2026-10-05T23:53:11.351679+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-12-23T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-05T01:00:00.000Z",
-      "id": "a0WfQ000003cAFxUAM",
-      "institution_name": null,
-      "name": "S-00009905",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
