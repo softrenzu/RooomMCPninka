@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-04T23:58:53.553474+00:00",
-    "tokyo": "2026-10-05T08:58:53.553474+09:00"
+    "utc": "2026-10-05T05:50:56.088721+00:00",
+    "tokyo": "2026-10-05T14:50:56.088721+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,75 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 342,
+  "count": 341,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T01:00:00.000Z",
-      "id": "a0WJ200000CDdoxMAD",
-      "institution_name": null,
-      "name": "S-00009613",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-04T01:00:00.000Z",
-      "id": "a0WJ200000CDe8tMAD",
-      "institution_name": null,
-      "name": "S-00009735",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「風車生産技術研究開発」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-27T15:00:00.000Z",
-      "id": "a0WfQ000003cYWnUAM",
-      "institution_name": null,
-      "name": "S-00009907",
-      "subsidy_max_limit": 150000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "促進",
-        "設備",
-        "AI"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-05T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-04T05:00:00.000Z",
-      "id": "a0WJ200000CDdonMAD",
-      "institution_name": null,
-      "name": "S-00009612",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究",
-        "実証"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-05T08:00:00.000Z",
       "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
@@ -528,6 +463,21 @@
     },
     {
       "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-08-31T01:00:00.000Z",
+      "id": "a0WJ200000CDdoxMAD",
+      "institution_name": null,
+      "name": "S-00009613",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
       "id": "a0WfQ000003BrAXUA0",
       "institution_name": null,
@@ -563,6 +513,22 @@
         "促進",
         "環境",
         "DX"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-04T05:00:00.000Z",
+      "id": "a0WJ200000CDdonMAD",
+      "institution_name": null,
+      "name": "S-00009612",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究",
+        "実証"
       ]
     },
     {
@@ -2580,6 +2546,27 @@
         "促進",
         "研究",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-23T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-05T01:00:00.000Z",
+      "id": "a0WfQ000003cAFxUAM",
+      "institution_name": null,
+      "name": "S-00009905",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
+      "matched_keywords": [
+        "事業",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "省エネ",
+        "地域",
+        "環境"
       ]
     },
     {
@@ -5546,6 +5533,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
       "matched_keywords": [
+        "事業",
         "支援",
         "補助",
         "導入",
