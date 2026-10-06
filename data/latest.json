@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-06T06:29:55.127743+00:00",
-    "tokyo": "2026-10-06T15:29:55.127743+09:00"
+    "utc": "2026-10-06T16:00:17.729007+00:00",
+    "tokyo": "2026-10-07T01:00:17.729007+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 340,
+  "count": 341,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1838,6 +1838,22 @@
         "事業",
         "開発",
         "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-10T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-05-19T15:00:00.000Z",
+      "id": "a0WJ200000CDYkiMAH",
+      "institution_name": null,
+      "name": "S-00009019",
+      "subsidy_max_limit": 1300000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度外国人患者受入れ体制整備支援事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助"
       ]
     },
     {
