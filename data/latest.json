@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-07T06:08:48.833029+00:00",
-    "tokyo": "2026-10-07T15:08:48.833029+09:00"
+    "utc": "2026-10-07T13:34:09.592626+00:00",
+    "tokyo": "2026-10-07T22:34:09.592626+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,43 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 344,
+  "count": 342,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-07T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T01:00:00.000Z",
-      "id": "a0WJ200000CDeC7MAL",
-      "institution_name": null,
-      "name": "S-00009740",
-      "subsidy_max_limit": 300000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度経営統合等による産業力強化支援事業（単体枠）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-07T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T01:00:00.000Z",
-      "id": "a0WJ200000CDeC6MAL",
-      "institution_name": null,
-      "name": "S-00009739",
-      "subsidy_max_limit": 400000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度経営統合等による産業力強化支援事業（連携枠）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-07T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -1554,7 +1521,6 @@
       "target_number_of_employees": "300名以下",
       "title": "女性の活躍推進に向けた職場環境改善奨励金　支給申請",
       "matched_keywords": [
-        "事業",
         "環境"
       ]
     },
@@ -4770,7 +4736,6 @@
       "title": "【福井県】次世代自動車普及促進事業補助金",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "導入",
         "促進",
