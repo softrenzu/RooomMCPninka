@@ -1,8 +1,89 @@
 {
   "generated_at": {
-    "utc": "2026-10-06T22:41:35.135504+00:00",
-    "tokyo": "2026-10-07T07:41:35.135504+09:00"
+    "utc": "2026-10-07T06:08:48.833029+00:00",
+    "tokyo": "2026-10-07T15:08:48.833029+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-28T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-07T00:00:00.000Z",
+      "id": "a0WJ200000CDc0YMAT",
+      "institution_name": null,
+      "name": "S-00009417",
+      "subsidy_max_limit": 130502000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "300名以下",
+      "title": "令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "設備",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-01-20T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-07T01:00:00.000Z",
+      "id": "a0WJ200000CDeC1MAL",
+      "institution_name": null,
+      "name": "S-00009738",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」の公募",
+      "matched_keywords": [
+        "支援",
+        "開発",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2040-12-31T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T03:00:00.000Z",
+      "id": "a0WfQ000003kp5pUAA",
+      "institution_name": null,
+      "name": "S-00009947",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和５年度 救命救急センター運営費補助金（消費税報告）",
+      "matched_keywords": [
+        "事業",
+        "補助"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2040-12-31T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T03:00:00.000Z",
+      "id": "a0WfQ000003kpQnUAI",
+      "institution_name": null,
+      "name": "S-00009949",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和６年度 救命救急センター運営費補助金（消費税報告）",
+      "matched_keywords": [
+        "事業",
+        "補助"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2040-12-31T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-01T03:00:00.000Z",
+      "id": "a0WfQ000003kpc5UAA",
+      "institution_name": null,
+      "name": "S-00009950",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度 救命救急センター運営費補助金（消費税報告）",
+      "matched_keywords": [
+        "事業",
+        "補助"
+      ]
+    }
+  ]
 }

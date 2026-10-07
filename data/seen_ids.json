@@ -1,7 +1,7 @@
 {
   "updated_at": {
-    "utc": "2026-10-06T22:41:35.135504+00:00",
-    "tokyo": "2026-10-07T07:41:35.135504+09:00"
+    "utc": "2026-10-07T06:08:48.833029+00:00",
+    "tokyo": "2026-10-07T15:08:48.833029+09:00"
   },
   "ids": [
     "a0W2x000003QZLqEAO",
@@ -264,6 +264,7 @@
     "a0WJ200000CDbyyMAD",
     "a0WJ200000CDbyzMAD",
     "a0WJ200000CDbz0MAD",
+    "a0WJ200000CDc0YMAT",
     "a0WJ200000CDcODMA1",
     "a0WJ200000CDcQOMA1",
     "a0WJ200000CDctfMAD",
@@ -392,6 +393,7 @@
     "a0WJ200000CDe8tMAD",
     "a0WJ200000CDe9hMAD",
     "a0WJ200000CDeA1MAL",
+    "a0WJ200000CDeC1MAL",
     "a0WJ200000CDeC6MAL",
     "a0WJ200000CDeC7MAL",
     "a0WJ200000CDeF3MAL",
@@ -475,6 +477,9 @@
     "a0WfQ000003aUAjUAM",
     "a0WfQ000003aZqLUAU",
     "a0WfQ000003cAFxUAM",
-    "a0WfQ000003cYWnUAM"
+    "a0WfQ000003cYWnUAM",
+    "a0WfQ000003kp5pUAA",
+    "a0WfQ000003kpQnUAI",
+    "a0WfQ000003kpc5UAA"
   ]
 }
