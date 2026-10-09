@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-09T01:15:50.595943+00:00",
-    "tokyo": "2026-10-09T10:15:50.595943+09:00"
+    "utc": "2026-10-09T10:42:07.746963+00:00",
+    "tokyo": "2026-10-09T19:42:07.746963+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,128 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 342,
+  "count": 337,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-09T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-21T05:00:00.000Z",
-      "id": "a0WJ200000CDdnJMAT",
-      "institution_name": null,
-      "name": "S-00009589",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-09T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-01T05:00:00.000Z",
-      "id": "a0WJ200000CDeS9MAL",
-      "institution_name": null,
-      "name": "S-00009770",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "省エネ",
-        "地域",
-        "環境",
-        "AI"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-18T00:00:00.000Z",
-      "id": "a0WJ200000CDeXvMAL",
-      "institution_name": null,
-      "name": "S-00009807",
-      "subsidy_max_limit": 3000000,
-      "target_area_search": "福岡県",
-      "target_number_of_employees": "300名以下",
-      "title": "【福岡県3次】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "促進",
-        "地域"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-31T00:00:00.000Z",
-      "id": "a0WJ200000CDdN0MAL",
-      "institution_name": null,
-      "name": "S-00009505",
-      "subsidy_max_limit": 20000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度 非石油由来製品等開発支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "開発"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
-      "id": "a0WfQ000003CVHdUAO",
-      "institution_name": null,
-      "name": "S-00009826",
-      "subsidy_max_limit": 700000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度　ＺＥＢ実証事業（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "実証",
-        "省エネ",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-28T05:00:00.000Z",
-      "id": "a0WJ200000CDeQmMAL",
-      "institution_name": null,
-      "name": "S-00009766",
-      "subsidy_max_limit": 10000000,
-      "target_area_search": "新潟県 / 福井県 / 富山県 / 石川県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-09T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -201,6 +83,24 @@
         "事業",
         "補助",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-12T15:00:00.000Z",
+      "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
+      "id": "a0W5h00000UcWrwEAF",
+      "institution_name": "東京都専門医認定支援事業補助金",
+      "name": "S-00004124",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "東京都専門医認定支援事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "人材",
+        "地域"
       ]
     },
     {
@@ -2314,6 +2214,7 @@
       "matched_keywords": [
         "事業",
         "支援",
+        "補助",
         "導入",
         "デジタル",
         "人材",
