@@ -1,8 +1,27 @@
 {
   "generated_at": {
-    "utc": "2026-10-08T18:53:44.981350+00:00",
-    "tokyo": "2026-10-09T03:53:44.981350+09:00"
+    "utc": "2026-10-09T01:15:50.595943+00:00",
+    "tokyo": "2026-10-09T10:15:50.595943+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-09T00:00:00.000Z",
+      "id": "a0WJ200000CDeT5MAL",
+      "institution_name": null,
+      "name": "S-00009777",
+      "subsidy_max_limit": 8440000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "人材",
+        "地域"
+      ]
+    }
+  ]
 }

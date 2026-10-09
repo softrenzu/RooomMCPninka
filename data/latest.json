@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-08T18:53:44.981350+00:00",
-    "tokyo": "2026-10-09T03:53:44.981350+09:00"
+    "utc": "2026-10-09T01:15:50.595943+00:00",
+    "tokyo": "2026-10-09T10:15:50.595943+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 341,
+  "count": 342,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1122,6 +1122,24 @@
     },
     {
       "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-09T00:00:00.000Z",
+      "id": "a0WJ200000CDeT5MAL",
+      "institution_name": null,
+      "name": "S-00009777",
+      "subsidy_max_limit": 8440000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "人材",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
       "acceptance_start_datetime": "2026-09-13T15:00:00.000Z",
       "id": "a0WfQ000003Bwa1UAC",
       "institution_name": null,
@@ -1506,7 +1524,6 @@
       "target_number_of_employees": "300名以下",
       "title": "女性の活躍推進に向けた職場環境改善奨励金　支給申請",
       "matched_keywords": [
-        "事業",
         "環境"
       ]
     },
@@ -5479,7 +5496,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
       "matched_keywords": [
-        "支援",
         "補助",
         "導入",
         "開発",
