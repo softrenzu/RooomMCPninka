@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-12T00:37:10.523303+00:00",
-    "tokyo": "2026-10-12T09:37:10.523303+09:00"
+    "utc": "2026-10-12T11:01:53.142357+00:00",
+    "tokyo": "2026-10-12T20:01:53.142357+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2615,7 +2615,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
       "matched_keywords": [
-        "事業",
         "補助",
         "導入",
         "開発",
