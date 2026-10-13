@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-13T06:52:22.243606+00:00",
-    "tokyo": "2026-10-13T15:52:22.243606+09:00"
+    "utc": "2026-10-13T16:59:48.835222+00:00",
+    "tokyo": "2026-10-14T01:59:48.835222+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,48 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 339,
+  "count": 338,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-13T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-14T00:00:00.000Z",
-      "id": "a0WfQ000003EVJxUAO",
-      "institution_name": null,
-      "name": "S-00009847",
-      "subsidy_max_limit": 500000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度（秋公募）コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "開発",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-13T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDdugMAD",
-      "institution_name": null,
-      "name": "S-00009653",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "秋田県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-14T07:00:00.000Z",
       "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
@@ -2251,6 +2213,23 @@
         "支援",
         "補助",
         "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-06-14T15:00:00.000Z",
+      "id": "a0WfQ000003ot1BUAQ",
+      "institution_name": null,
+      "name": "S-00009975",
+      "subsidy_max_limit": 300000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "東京都商店街防災力向上緊急支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "地域"
       ]
     },
     {
