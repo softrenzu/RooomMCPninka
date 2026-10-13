@@ -1,7 +1,7 @@
 {
   "updated_at": {
-    "utc": "2026-10-12T21:18:38.773923+00:00",
-    "tokyo": "2026-10-13T06:18:38.773923+09:00"
+    "utc": "2026-10-13T06:52:22.243606+00:00",
+    "tokyo": "2026-10-13T15:52:22.243606+09:00"
   },
   "ids": [
     "a0W2x000003QZLqEAO",
@@ -243,6 +243,7 @@
     "a0WJ200000CDaooMAD",
     "a0WJ200000CDaotMAD",
     "a0WJ200000CDap3MAD",
+    "a0WJ200000CDapWMAT",
     "a0WJ200000CDb6JMAT",
     "a0WJ200000CDb86MAD",
     "a0WJ200000CDb87MAD",
@@ -321,6 +322,7 @@
     "a0WJ200000CDdoxMAD",
     "a0WJ200000CDdqyMAD",
     "a0WJ200000CDdsqMAD",
+    "a0WJ200000CDdtCMAT",
     "a0WJ200000CDdtHMAT",
     "a0WJ200000CDdtMMAT",
     "a0WJ200000CDdtRMAT",
@@ -478,11 +480,15 @@
     "a0WfQ000003aSfBUAU",
     "a0WfQ000003aUAjUAM",
     "a0WfQ000003aZqLUAU",
+    "a0WfQ000003ao2zUAA",
     "a0WfQ000003cAFxUAM",
     "a0WfQ000003cYWnUAM",
     "a0WfQ000003iZLKUA2",
     "a0WfQ000003kp5pUAA",
     "a0WfQ000003kpQnUAI",
-    "a0WfQ000003kpc5UAA"
+    "a0WfQ000003kpc5UAA",
+    "a0WfQ000003l6UrUAI",
+    "a0WfQ000003n4bqUAA",
+    "a0WfQ000003oIxhUAE"
   ]
 }
