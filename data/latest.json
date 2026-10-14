@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-14T05:01:28.493973+00:00",
-    "tokyo": "2026-10-14T14:01:28.493973+09:00"
+    "utc": "2026-10-14T12:03:08.420945+00:00",
+    "tokyo": "2026-10-14T21:03:08.420945+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,26 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 340,
+  "count": 339,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-14T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
-      "id": "a0WJ200000CDXkTMAX",
-      "institution_name": null,
-      "name": "S-00008193",
-      "subsidy_max_limit": 1500000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度展示会出展助成事業",
-      "matched_keywords": [
-        "事業",
-        "助成",
-        "販路"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-14T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -3714,7 +3698,7 @@
       "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
       "acceptance_start_datetime": "2025-03-30T15:00:00.000Z",
       "id": "a0WJ200000CDL8JMAX",
-      "institution_name": null,
+      "institution_name": "脱炭素成長型経済構造移行推進対策費補助金",
       "name": "S-00006337",
       "subsidy_max_limit": 29500000000,
       "target_area_search": "全国",
