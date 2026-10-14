@@ -1,8 +1,45 @@
 {
   "generated_at": {
-    "utc": "2026-10-13T22:52:37.157924+00:00",
-    "tokyo": "2026-10-14T07:52:37.157924+09:00"
+    "utc": "2026-10-14T05:01:28.493973+00:00",
+    "tokyo": "2026-10-14T14:01:28.493973+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-11-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-14T01:00:00.000Z",
+      "id": "a0WfQ000003CYIjUAO",
+      "institution_name": null,
+      "name": "S-00009829",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "実証"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-14T03:00:00.000Z",
+      "id": "a0WfQ000003ePpBUAU",
+      "institution_name": null,
+      "name": "S-00009920",
+      "subsidy_max_limit": 2700000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度　東京都入退院時連携支援事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "促進",
+        "人材",
+        "地域"
+      ]
+    }
+  ]
 }
