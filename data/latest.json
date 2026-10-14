@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-14T12:03:08.420945+00:00",
-    "tokyo": "2026-10-14T21:03:08.420945+09:00"
+    "utc": "2026-10-14T17:18:51.855072+00:00",
+    "tokyo": "2026-10-15T02:18:51.855072+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,62 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 339,
+  "count": 338,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-14T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDe68MAD",
-      "institution_name": null,
-      "name": "S-00009704",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "静岡県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-14T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-01T00:00:00.000Z",
-      "id": "a0WJ200000CDaTEMA1",
-      "institution_name": null,
-      "name": "S-00009313",
-      "subsidy_max_limit": 1800000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "女性の活躍推進に向けた職場環境改善奨励金　撤回届",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-14T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-01T00:00:00.000Z",
-      "id": "a0WJ200000CDaTGMA1",
-      "institution_name": null,
-      "name": "S-00009315",
-      "subsidy_max_limit": 200000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "100名以下",
-      "title": "女性活躍情報公開促進奨励金　撤回届",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "促進",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-15T01:00:00.000Z",
@@ -1764,6 +1712,39 @@
         "助成",
         "設備",
         "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-14T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+      "id": "a0WJ200000CDaTEMA1",
+      "institution_name": null,
+      "name": "S-00009313",
+      "subsidy_max_limit": 1800000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "女性の活躍推進に向けた職場環境改善奨励金　撤回届",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-14T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+      "id": "a0WJ200000CDaTGMA1",
+      "institution_name": null,
+      "name": "S-00009315",
+      "subsidy_max_limit": 200000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "100名以下",
+      "title": "女性活躍情報公開促進奨励金　撤回届",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "促進",
         "環境"
       ]
     },
