@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-14T21:47:04.412889+00:00",
-    "tokyo": "2026-10-15T06:47:04.412889+09:00"
+    "utc": "2026-10-15T04:50:08.412457+00:00",
+    "tokyo": "2026-10-15T13:50:08.412457+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,96 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 338,
+  "count": 333,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-15T01:00:00.000Z",
-      "id": "a0WJ200000CDdMRMA1",
-      "institution_name": null,
-      "name": "S-00009504",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募",
-      "matched_keywords": [
-        "導入",
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T01:00:00.000Z",
-      "id": "a0WJ200000CDdoxMAD",
-      "institution_name": null,
-      "name": "S-00009613",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
-      "id": "a0WfQ000003BrAXUA0",
-      "institution_name": null,
-      "name": "S-00009821",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和8年度】DX型CO2削減対策実行支援事業（二次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "導入",
-        "促進",
-        "環境",
-        "DX"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
-      "id": "a0WfQ000003BpWvUAK",
-      "institution_name": null,
-      "name": "S-00009820",
-      "subsidy_max_limit": 500000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【令和8年度】省CO2型システムへの改修支援事業（三次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "環境",
-        "DX"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-04T05:00:00.000Z",
-      "id": "a0WJ200000CDdonMAD",
-      "institution_name": null,
-      "name": "S-00009612",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究",
-        "実証"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-15T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
