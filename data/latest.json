@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-15T21:30:13.451948+00:00",
-    "tokyo": "2026-10-16T06:30:13.451948+09:00"
+    "utc": "2026-10-16T04:40:22.221207+00:00",
+    "tokyo": "2026-10-16T13:40:22.221207+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,83 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 332,
+  "count": 330,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-17T01:00:00.000Z",
-      "id": "a0WJ200000CDeTZMA1",
-      "institution_name": null,
-      "name": "S-00009782",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-25T01:00:00.000Z",
-      "id": "a0WfQ000003F3K1UAK",
-      "institution_name": null,
-      "name": "S-00009850",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
-      "id": "a0WJ200000CDKZFMA5",
-      "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
-      "name": "S-00006173",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-17T05:00:00.000Z",
-      "id": "a0WJ200000CDeZuMAL",
-      "institution_name": null,
-      "name": "S-00009816",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備",
-        "デジタル",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
       "acceptance_start_datetime": "2026-07-27T08:00:00.000Z",
@@ -2965,6 +2892,38 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2027-01-29T07:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T00:00:00.000Z",
+      "id": "a0WJ200000CDVn4MAH",
+      "institution_name": null,
+      "name": "S-00007440",
+      "subsidy_max_limit": 1000000,
+      "target_area_search": "宮崎県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【畜産事業者向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-01-29T07:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T00:00:00.000Z",
+      "id": "a0WJ200000CDVn9MAH",
+      "institution_name": null,
+      "name": "S-00007441",
+      "subsidy_max_limit": 1000000,
+      "target_area_search": "宮崎県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【農産園芸課向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2027-01-29T08:00:00.000Z",
       "acceptance_start_datetime": "2026-05-13T15:00:00.000Z",
       "id": "a0W5h00000ZuemGEAR",
@@ -3603,7 +3562,6 @@
       "title": "女性の活躍推進に向けた職場環境改善奨励金　中止届",
       "matched_keywords": [
         "事業",
-        "支援",
         "環境"
       ]
     },

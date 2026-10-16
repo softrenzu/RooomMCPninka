@@ -1,8 +1,41 @@
 {
   "generated_at": {
-    "utc": "2026-10-15T21:30:13.451948+00:00",
-    "tokyo": "2026-10-16T06:30:13.451948+09:00"
+    "utc": "2026-10-16T04:40:22.221207+00:00",
+    "tokyo": "2026-10-16T13:40:22.221207+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "acceptance_end_datetime": "2027-01-29T07:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T00:00:00.000Z",
+      "id": "a0WJ200000CDVn4MAH",
+      "institution_name": null,
+      "name": "S-00007440",
+      "subsidy_max_limit": 1000000,
+      "target_area_search": "宮崎県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【畜産事業者向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-01-29T07:30:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T00:00:00.000Z",
+      "id": "a0WJ200000CDVn9MAH",
+      "institution_name": null,
+      "name": "S-00007441",
+      "subsidy_max_limit": 1000000,
+      "target_area_search": "宮崎県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【農産園芸課向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助"
+      ]
+    }
+  ]
 }
