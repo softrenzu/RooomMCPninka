@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-16T04:40:22.221207+00:00",
-    "tokyo": "2026-10-16T13:40:22.221207+09:00"
+    "utc": "2026-10-16T11:33:39.455464+00:00",
+    "tokyo": "2026-10-16T20:33:39.455464+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,121 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 330,
+  "count": 326,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-27T08:00:00.000Z",
-      "id": "a0WJ200000CDWp3MAH",
-      "institution_name": null,
-      "name": "S-00007741",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "石川県",
-      "target_number_of_employees": "20名以下",
-      "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "販路",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-16T08:00:00.000Z",
-      "id": "a0WJ200000CDeYyMAL",
-      "institution_name": null,
-      "name": "S-00009814",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "熊本県",
-      "target_number_of_employees": "20名以下",
-      "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "販路",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDe3uMAD",
-      "institution_name": null,
-      "name": "S-00009686",
-      "subsidy_max_limit": 600000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国実用新案出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WJ200000CDe3pMAD",
-      "institution_name": null,
-      "name": "S-00009685",
-      "subsidy_max_limit": 4000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和８年度外国特許出願費用助成事業（第２回）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-07-27T06:00:00.000Z",
-      "id": "a0WJ200000CDdALMA1",
-      "institution_name": null,
-      "name": "S-00009485",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "石川県",
-      "target_number_of_employees": "20名以下",
-      "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "販路",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-16T08:00:00.000Z",
-      "id": "a0WJ200000CDeToMAL",
-      "institution_name": null,
-      "name": "S-00009785",
-      "subsidy_max_limit": 2000000,
-      "target_area_search": "熊本県",
-      "target_number_of_employees": "20名以下",
-      "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "設備",
-        "販路",
-        "地域",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
       "acceptance_start_datetime": "2026-09-17T05:00:00.000Z",
@@ -2110,6 +1999,27 @@
     },
     {
       "acceptance_end_datetime": "2026-12-15T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T06:00:00.000Z",
+      "id": "a0WfQ000003lu8IUAQ",
+      "institution_name": null,
+      "name": "S-00009961",
+      "subsidy_max_limit": 500000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "省エネ",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-15T08:00:00.000Z",
       "acceptance_start_datetime": "2026-10-13T00:00:00.000Z",
       "id": "a0WfQ000003ao2zUAA",
       "institution_name": null,
@@ -3242,6 +3152,25 @@
         "補助",
         "助成",
         "観光",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-02-15T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-16T05:00:00.000Z",
+      "id": "a0WfQ000003Bf7lUAC",
+      "institution_name": null,
+      "name": "S-00009818",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "令和８年度介護・障害福祉サービス等事業所における育業・介護休業等両立支援事業費補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成",
         "地域",
         "環境"
       ]
