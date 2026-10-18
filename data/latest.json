@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-18T11:18:38.293948+00:00",
-    "tokyo": "2026-10-18T20:18:38.293948+09:00"
+    "utc": "2026-10-18T15:57:44.956053+00:00",
+    "tokyo": "2026-10-19T00:57:44.956053+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 321,
+  "count": 322,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1837,6 +1837,27 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-18T15:00:00.000Z",
+      "id": "a0WJ200000CDeYeMAL",
+      "institution_name": null,
+      "name": "S-00009811",
+      "subsidy_max_limit": 30000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "開発",
+        "促進",
+        "観光",
+        "デジタル",
+        "DX"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-12-01T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
       "id": "a0WJ200000CDYR2MAP",
@@ -3372,13 +3393,14 @@
       "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
       "acceptance_start_datetime": "2025-03-30T15:00:00.000Z",
       "id": "a0WJ200000CDL8JMAX",
-      "institution_name": "脱炭素成長型経済構造移行推進対策費補助金",
+      "institution_name": null,
       "name": "S-00006337",
       "subsidy_max_limit": 29500000000,
       "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和６年度補正予算　商用車等の電動化促進事業",
       "matched_keywords": [
+        "支援",
         "補助",
         "導入",
         "促進",

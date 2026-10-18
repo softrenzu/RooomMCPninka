@@ -1,8 +1,30 @@
 {
   "generated_at": {
-    "utc": "2026-10-18T11:18:38.293948+00:00",
-    "tokyo": "2026-10-18T20:18:38.293948+09:00"
+    "utc": "2026-10-18T15:57:44.956053+00:00",
+    "tokyo": "2026-10-19T00:57:44.956053+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-18T15:00:00.000Z",
+      "id": "a0WJ200000CDeYeMAL",
+      "institution_name": null,
+      "name": "S-00009811",
+      "subsidy_max_limit": 30000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "開発",
+        "促進",
+        "観光",
+        "デジタル",
+        "DX"
+      ]
+    }
+  ]
 }
