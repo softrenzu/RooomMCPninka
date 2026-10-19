@@ -1,8 +1,43 @@
 {
   "generated_at": {
-    "utc": "2026-10-18T23:20:29.173537+00:00",
-    "tokyo": "2026-10-19T08:20:29.173537+09:00"
+    "utc": "2026-10-19T04:51:17.591544+00:00",
+    "tokyo": "2026-10-19T13:51:17.591544+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-10-23T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-19T00:00:00.000Z",
+      "id": "a0WfQ000003qOVxUAM",
+      "institution_name": null,
+      "name": "S-00009986",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "20名以下",
+      "title": "令和８年度 暑さに配慮した職場環境づくり奨励金_第４回",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "促進",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-19T01:00:00.000Z",
+      "id": "a0WJ200000CDe82MAD",
+      "institution_name": null,
+      "name": "S-00009732",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
+      "matched_keywords": [
+        "事業",
+        "導入",
+        "開発",
+        "研究"
+      ]
+    }
+  ]
 }
