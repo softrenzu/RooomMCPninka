@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-20T00:25:31.810998+00:00",
-    "tokyo": "2026-10-20T09:25:31.810998+09:00"
+    "utc": "2026-10-20T08:40:12.347532+00:00",
+    "tokyo": "2026-10-20T17:40:12.347532+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,27 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 323,
+  "count": 322,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-20T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
-      "id": "a0WJ200000CDeVeMAL",
-      "institution_name": null,
-      "name": "S-00009793",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募",
-      "matched_keywords": [
-        "支援",
-        "開発",
-        "促進",
-        "研究"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-22T03:00:00.000Z",
       "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
@@ -5214,7 +5197,6 @@
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "導入",
         "開発",
@@ -5614,7 +5596,6 @@
       "title": "令和8年度【1年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
