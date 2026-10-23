@@ -1,28 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-10-23T05:00:37.741007+00:00",
-    "tokyo": "2026-10-23T14:00:37.741007+09:00"
+    "utc": "2026-10-23T11:48:01.799832+00:00",
+    "tokyo": "2026-10-23T20:48:01.799832+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-11-24T04:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-23T00:00:00.000Z",
-      "id": "a0WfQ000003rLvpUAE",
-      "institution_name": null,
-      "name": "S-00009991",
-      "subsidy_max_limit": 200000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "開発",
-        "設備"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
