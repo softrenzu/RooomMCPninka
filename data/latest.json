@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-24T20:56:35.617810+00:00",
-    "tokyo": "2026-10-25T05:56:35.617810+09:00"
+    "utc": "2026-10-24T23:21:12.755718+00:00",
+    "tokyo": "2026-10-25T08:21:12.755718+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2562,7 +2562,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）",
       "matched_keywords": [
-        "事業",
         "支援",
         "助成",
         "人材"
