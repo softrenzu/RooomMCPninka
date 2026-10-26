@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-26T04:57:04.483208+00:00",
-    "tokyo": "2026-10-26T13:57:04.483208+09:00"
+    "utc": "2026-10-26T13:15:19.180013+00:00",
+    "tokyo": "2026-10-26T22:15:19.180013+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,31 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 319,
+  "count": 318,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-26T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-01T00:00:00.000Z",
-      "id": "a0WfQ000003K34rUAC",
-      "institution_name": null,
-      "name": "S-00009881",
-      "subsidy_max_limit": 15000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度地域資源活用製品等の開発・販売促進事業　開発・改良フェーズ",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "開発",
-        "促進",
-        "販路",
-        "地域"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-28T03:00:00.000Z",
       "acceptance_start_datetime": "2026-10-08T01:00:00.000Z",
@@ -1352,7 +1331,7 @@
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
       "matched_keywords": [
         "事業",
         "支援",
@@ -1368,7 +1347,7 @@
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
       "matched_keywords": [
         "事業",
         "支援",
@@ -4654,23 +4633,6 @@
     },
     {
       "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-      "id": "a0WJ200000CDXoBMAX",
-      "institution_name": null,
-      "name": "S-00008227",
-      "subsidy_max_limit": 200000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年_設備投資_事業完了後申請",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2026-10-22T00:00:00.000Z",
       "id": "a0WfQ000003poQrUAI",
       "institution_name": null,
@@ -4936,6 +4898,23 @@
       "title": "東京都環境保全資金融資あっせん",
       "matched_keywords": [
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+      "id": "a0WJ200000CDXoBMAX",
+      "institution_name": null,
+      "name": "S-00008227",
+      "subsidy_max_limit": 200000000,
+      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "設備投資支援事業_事業完了後申請（令和８年）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "設備"
       ]
     },
     {
