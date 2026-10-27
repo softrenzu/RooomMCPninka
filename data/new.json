@@ -1,8 +1,30 @@
 {
   "generated_at": {
-    "utc": "2026-10-27T00:32:55.140889+00:00",
-    "tokyo": "2026-10-27T09:32:55.140889+09:00"
+    "utc": "2026-10-27T09:08:10.091706+00:00",
+    "tokyo": "2026-10-27T18:08:10.091706+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-12-23T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-27T01:00:00.000Z",
+      "id": "a0WfQ000003rYGLUA2",
+      "institution_name": null,
+      "name": "S-00009992",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度_グリーンスローモビリティ等導入促進事業（三次公募）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "設備",
+        "地域",
+        "環境"
+      ]
+    }
+  ]
 }
