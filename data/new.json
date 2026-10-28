@@ -1,8 +1,26 @@
 {
   "generated_at": {
-    "utc": "2026-10-28T05:53:05.413222+00:00",
-    "tokyo": "2026-10-28T14:53:05.413222+09:00"
+    "utc": "2026-10-28T13:08:54.362337+00:00",
+    "tokyo": "2026-10-28T22:08:54.362337+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2027-03-19T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-28T06:35:00.000Z",
+      "id": "a0WfQ0000040nWHUAY",
+      "institution_name": null,
+      "name": "S-00010016",
+      "subsidy_max_limit": 2725000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度居宅介護支援事業所経営改善等支援補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成"
+      ]
+    }
+  ]
 }

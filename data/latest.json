@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-28T05:53:05.413222+00:00",
-    "tokyo": "2026-10-28T14:53:05.413222+09:00"
+    "utc": "2026-10-28T13:08:54.362337+00:00",
+    "tokyo": "2026-10-28T22:08:54.362337+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -31,24 +31,6 @@
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-28T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-09-28T00:00:00.000Z",
-      "id": "a0WfQ000003EZsDUAW",
-      "institution_name": null,
-      "name": "S-00009848",
-      "subsidy_max_limit": 20000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-28T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -154,6 +136,7 @@
       "title": "［第十三回］事業再構築補助金_GX進出類型（交付申請等）",
       "matched_keywords": [
         "事業",
+        "支援",
         "補助",
         "地域",
         "環境"
@@ -3542,6 +3525,23 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2027-03-19T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-28T06:35:00.000Z",
+      "id": "a0WfQ0000040nWHUAY",
+      "institution_name": null,
+      "name": "S-00010016",
+      "subsidy_max_limit": 2725000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度居宅介護支援事業所経営改善等支援補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "助成"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2027-03-23T08:00:00.000Z",
       "acceptance_start_datetime": "2026-01-23T08:00:00.000Z",
       "id": "a0WJ200000CDX4vMAH",
@@ -3658,6 +3658,7 @@
       "target_number_of_employees": "300名以下",
       "title": "【東海市】小規模企業等振興資金等信用保証料補助金",
       "matched_keywords": [
+        "事業",
         "支援",
         "補助",
         "環境"
