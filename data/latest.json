@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-28T20:21:17.486980+00:00",
-    "tokyo": "2026-10-29T05:21:17.486980+09:00"
+    "utc": "2026-10-29T01:01:59.175070+00:00",
+    "tokyo": "2026-10-29T10:01:59.175070+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -3601,7 +3601,6 @@
       "target_number_of_employees": "300名以下",
       "title": "【東海市】小規模企業等振興資金等信用保証料補助金",
       "matched_keywords": [
-        "事業",
         "支援",
         "補助",
         "環境"
