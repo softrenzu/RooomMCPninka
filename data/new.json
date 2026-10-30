@@ -1,28 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-10-30T01:07:28.007898+00:00",
-    "tokyo": "2026-10-30T10:07:28.007898+09:00"
+    "utc": "2026-10-30T10:11:05.581073+00:00",
+    "tokyo": "2026-10-30T19:11:05.581073+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-10-29T15:00:00.000Z",
-      "id": "a0WfQ000003vH2PUAU",
-      "institution_name": null,
-      "name": "S-00010004",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業【変更承認申請/変更届/中止申請/実績報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "設備",
-        "販路"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
