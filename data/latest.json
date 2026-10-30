@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-30T10:11:05.581073+00:00",
-    "tokyo": "2026-10-30T19:11:05.581073+09:00"
+    "utc": "2026-10-30T18:04:10.845039+00:00",
+    "tokyo": "2026-10-31T03:04:10.845039+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,120 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 308,
+  "count": 302,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
-      "id": "a0WJ200000CDY6uMAH",
-      "institution_name": null,
-      "name": "S-00008476",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度医療機関診療情報デジタル導入支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "デジタル"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WfQ000003IBL3UAO",
-      "institution_name": null,
-      "name": "S-00009863",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WfQ000003I9xZUAS",
-      "institution_name": null,
-      "name": "S-00009862",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-      "id": "a0WJ200000CDVu7MAH",
-      "institution_name": null,
-      "name": "S-00007470",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和７年度勤務環境改善体制医師派遣等推進事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T15:00:00.000Z",
-      "id": "a0W5h00000UcDDXEA3",
-      "institution_name": null,
-      "name": "S-00004027",
-      "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都広域団体認定訓練助成金",
-      "matched_keywords": [
-        "助成",
-        "人材"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-30T15:00:00.000Z",
-      "acceptance_start_datetime": "2026-03-24T04:00:00.000Z",
-      "id": "a0WJ200000CDY4mMAH",
-      "institution_name": null,
-      "name": "S-00008429",
-      "subsidy_max_limit": 15000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和７年度補正 業務産業用蓄電システム導入支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "促進",
-        "設備"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
       "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
