@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-29T18:31:55.068025+00:00",
-    "tokyo": "2026-10-30T03:31:55.068025+09:00"
+    "utc": "2026-10-30T01:07:28.007898+00:00",
+    "tokyo": "2026-10-30T10:07:28.007898+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 314,
+  "count": 315,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -198,6 +198,7 @@
       "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）",
       "matched_keywords": [
         "事業",
+        "支援",
         "補助",
         "促進",
         "設備",
@@ -5068,6 +5069,25 @@
       "matched_keywords": [
         "事業",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-10-29T15:00:00.000Z",
+      "id": "a0WfQ000003vH2PUAU",
+      "institution_name": null,
+      "name": "S-00010004",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業【変更承認申請/変更届/中止申請/実績報告】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "導入",
+        "設備",
+        "販路"
       ]
     },
     {
