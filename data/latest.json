@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-31T05:54:26.299381+00:00",
-    "tokyo": "2026-10-31T14:54:26.299381+09:00"
+    "utc": "2026-10-31T12:44:06.550484+00:00",
+    "tokyo": "2026-10-31T21:44:06.550484+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,64 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 302,
+  "count": 299,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aN9KUAU",
-      "institution_name": null,
-      "name": "S-00009901",
-      "subsidy_max_limit": 2400000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "開発",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aSfBUAU",
-      "institution_name": null,
-      "name": "S-00009900",
-      "subsidy_max_limit": 1900000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都正規雇用転換安定化支援助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-10-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-09-30T23:30:00.000Z",
-      "id": "a0WfQ000003aUAjUAM",
-      "institution_name": null,
-      "name": "S-00009902",
-      "subsidy_max_limit": 1260000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "東京都若者世代職場定着促進助成金（令和８年度第６回申請受付）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-10-31T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
