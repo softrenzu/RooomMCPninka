@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-10-31T19:22:01.227100+00:00",
-    "tokyo": "2026-11-01T04:22:01.227100+09:00"
+    "utc": "2026-11-01T00:11:16.777749+00:00",
+    "tokyo": "2026-11-01T09:11:16.777749+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 293,
+  "count": 295,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -944,6 +944,7 @@
       "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）",
       "matched_keywords": [
         "事業",
+        "支援",
         "補助",
         "導入",
         "促進",
@@ -1137,6 +1138,22 @@
     },
     {
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-11-01T00:00:00.000Z",
+      "id": "a0WJ200000CDaTDMA1",
+      "institution_name": null,
+      "name": "S-00009312",
+      "subsidy_max_limit": 1800000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "女性の活躍推進に向けた職場環境改善奨励金　支給申請",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
       "acceptance_start_datetime": "2026-07-14T00:00:00.000Z",
       "id": "a0WJ200000CDbYxMAL",
       "institution_name": null,
@@ -1147,6 +1164,23 @@
       "title": "女性活躍情報公開促進奨励金　中止届",
       "matched_keywords": [
         "事業",
+        "促進",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-11-01T00:00:00.000Z",
+      "id": "a0WJ200000CDaTFMA1",
+      "institution_name": null,
+      "name": "S-00009314",
+      "subsidy_max_limit": 200000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "100名以下",
+      "title": "女性活躍情報公開促進奨励金　支給申請",
+      "matched_keywords": [
+        "事業",
+        "支援",
         "促進",
         "環境"
       ]
@@ -4868,7 +4902,6 @@
       "title": "令和7年度【3年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
@@ -5035,7 +5068,6 @@
       "title": "令和7年度　ES（社員満足度）向上による若手人材確保・定着事業助成金　１年目申請用",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
