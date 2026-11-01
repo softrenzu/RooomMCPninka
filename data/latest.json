@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-01T16:06:26.776841+00:00",
-    "tokyo": "2026-11-02T01:06:26.776841+09:00"
+    "utc": "2026-11-01T22:09:24.795243+00:00",
+    "tokyo": "2026-11-02T07:09:24.795243+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2011,7 +2011,7 @@
       "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
       "acceptance_start_datetime": "2026-04-09T05:00:00.000Z",
       "id": "a0WJ200000CDK7NMAX",
-      "institution_name": "中小企業の外国人従業員に対する研修等支援助成金",
+      "institution_name": null,
       "name": "S-00006097",
       "subsidy_max_limit": 250000,
       "target_area_search": "東京都",
