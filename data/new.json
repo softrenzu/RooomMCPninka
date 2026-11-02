@@ -1,59 +1,48 @@
 {
   "generated_at": {
-    "utc": "2026-11-02T06:21:18.704958+00:00",
-    "tokyo": "2026-11-02T15:21:18.704958+09:00"
+    "utc": "2026-11-02T19:33:54.127591+00:00",
+    "tokyo": "2026-11-03T04:33:54.127591+09:00"
   },
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "acceptance_end_datetime": "2026-11-13T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-02T00:00:00.000Z",
-      "id": "a0WfQ000003pt0jUAA",
+      "acceptance_end_datetime": "2026-12-15T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-02T08:00:00.000Z",
+      "id": "a0WfQ000003tCA5UAM",
       "institution_name": null,
-      "name": "S-00009981",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（業務改善コース）【令和8年度第3回】",
+      "name": "S-00009997",
+      "subsidy_max_limit": 2000000,
+      "target_area_search": "熊本県",
+      "target_number_of_employees": "20名以下",
+      "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】",
       "matched_keywords": [
         "事業",
         "支援",
-        "助成",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-02T01:00:00.000Z",
-      "id": "a0WfQ000003tEv3UAE",
-      "institution_name": null,
-      "name": "S-00009998",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-30T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-02T00:00:00.000Z",
-      "id": "a0WfQ000003ohEXUAY",
-      "institution_name": null,
-      "name": "S-00009971",
-      "subsidy_max_limit": 20000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【第３回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
+        "補助",
         "設備",
-        "販路"
+        "販路",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-15T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-02T08:00:00.000Z",
+      "id": "a0WfQ000003iibVUAQ",
+      "institution_name": null,
+      "name": "S-00009935",
+      "subsidy_max_limit": 2000000,
+      "target_area_search": "熊本県",
+      "target_number_of_employees": "20名以下",
+      "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "設備",
+        "販路",
+        "地域",
+        "環境"
       ]
     }
   ]
