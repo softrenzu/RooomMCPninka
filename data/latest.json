@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-02T19:33:54.127591+00:00",
-    "tokyo": "2026-11-03T04:33:54.127591+09:00"
+    "utc": "2026-11-03T02:56:58.789415+00:00",
+    "tokyo": "2026-11-03T11:56:58.789415+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1560,7 +1560,6 @@
       "title": "令和８年度_グリーンスローモビリティ等導入促進事業（三次公募）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "導入",
         "促進",
@@ -2102,7 +2101,7 @@
       "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
       "acceptance_start_datetime": "2026-04-09T05:00:00.000Z",
       "id": "a0WJ200000CDK7OMAX",
-      "institution_name": "中小企業の外国人従業員に対する研修等支援助成金",
+      "institution_name": null,
       "name": "S-00006098",
       "subsidy_max_limit": 500000,
       "target_area_search": "東京都",
