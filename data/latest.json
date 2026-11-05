@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-05T01:29:48.629954+00:00",
-    "tokyo": "2026-11-05T10:29:48.629954+09:00"
+    "utc": "2026-11-05T11:07:54.656858+00:00",
+    "tokyo": "2026-11-05T20:07:54.656858+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 301,
+  "count": 303,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -811,7 +811,6 @@
       "title": "令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "促進",
         "環境"
@@ -1443,6 +1442,25 @@
         "支援",
         "補助",
         "設備",
+        "販路",
+        "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-15T08:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-05T06:00:00.000Z",
+      "id": "a0WfQ000003kEuHUAU",
+      "institution_name": null,
+      "name": "S-00009944",
+      "subsidy_max_limit": 2000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "20名以下",
+      "title": "小規模事業者持続化補助金＜創業型＞ 第４回受付締切",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
         "販路",
         "地域",
         "環境"
@@ -2915,7 +2933,6 @@
       "target_number_of_employees": "300名以下",
       "title": "女性の活躍推進に向けた職場環境改善奨励金　中止届",
       "matched_keywords": [
-        "事業",
         "環境"
       ]
     },
@@ -2981,7 +2998,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "川越市中小企業者等物価高騰対策経営改善支援金",
       "matched_keywords": [
-        "事業",
         "支援",
         "補助",
         "導入",
@@ -3536,6 +3552,25 @@
         "助成",
         "導入",
         "促進"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
+      "acceptance_start_datetime": "2026-03-31T23:30:00.000Z",
+      "id": "a0WfQ0000047HWTUA2",
+      "institution_name": null,
+      "name": "S-00010039",
+      "subsidy_max_limit": 200000,
+      "target_area_search": "三重県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "四日市市燃料電池自動車導入促進補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "環境"
       ]
     },
     {
@@ -4977,7 +5012,6 @@
       "title": "令和7年度【2年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "matched_keywords": [
         "事業",
-        "支援",
         "助成",
         "促進",
         "人材",
