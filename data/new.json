@@ -1,8 +1,24 @@
 {
   "generated_at": {
-    "utc": "2026-11-04T19:51:54.343234+00:00",
-    "tokyo": "2026-11-05T04:51:54.343234+09:00"
+    "utc": "2026-11-05T01:29:48.629954+00:00",
+    "tokyo": "2026-11-05T10:29:48.629954+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-05T01:00:00.000Z",
+      "id": "a0WfQ000003tibNUAQ",
+      "institution_name": null,
+      "name": "S-00009999",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「再生可能エネルギー技術の多様化に関する動向調査」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
+      ]
+    }
+  ]
 }
