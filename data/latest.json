@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-06T11:04:23.041306+00:00",
-    "tokyo": "2026-11-06T20:04:23.041306+09:00"
+    "utc": "2026-11-06T19:29:46.384597+00:00",
+    "tokyo": "2026-11-07T04:29:46.384597+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -3701,7 +3701,7 @@
       "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2026-04-16T15:00:00.000Z",
       "id": "a0WJ200000CDXjzMAH",
-      "institution_name": "【福井県】次世代自動車普及促進事業補助金",
+      "institution_name": null,
       "name": "S-00008171",
       "subsidy_max_limit": 500000,
       "target_area_search": "福井県",
