@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-07T00:58:27.394385+00:00",
-    "tokyo": "2026-11-07T09:58:27.394385+09:00"
+    "utc": "2026-11-07T10:24:04.254000+00:00",
+    "tokyo": "2026-11-07T19:24:04.254000+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1777,7 +1777,7 @@
       "acceptance_end_datetime": "2026-12-30T15:00:00.000Z",
       "acceptance_start_datetime": "2025-11-03T15:00:00.000Z",
       "id": "a0WJ200000CDQuHMAX",
-      "institution_name": null,
+      "institution_name": "NBC災害・テロ対策設備整備費補助事業",
       "name": "S-00006942",
       "subsidy_max_limit": 33762000,
       "target_area_search": "東京都",
