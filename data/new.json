@@ -1,8 +1,26 @@
 {
   "generated_at": {
-    "utc": "2026-11-08T19:44:46.128577+00:00",
-    "tokyo": "2026-11-09T04:44:46.128577+09:00"
+    "utc": "2026-11-09T00:58:49.742990+00:00",
+    "tokyo": "2026-11-09T09:58:49.742990+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-11-30T14:45:00.000Z",
+      "acceptance_start_datetime": "2024-10-29T15:00:00.000Z",
+      "id": "a0WJ200000CDKBZMA5",
+      "institution_name": "病院勤務者勤務環境改善事業・救急医療体制強化事業",
+      "name": "S-00006124",
+      "subsidy_max_limit": 0,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和６年度　病院勤務者勤務環境改善事業・救急医療体制強化事業（実績報告）",
+      "matched_keywords": [
+        "事業",
+        "設備",
+        "人材",
+        "環境"
+      ]
+    }
+  ]
 }
