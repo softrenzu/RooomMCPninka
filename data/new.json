@@ -1,25 +1,61 @@
 {
   "generated_at": {
-    "utc": "2026-11-09T00:58:49.742990+00:00",
-    "tokyo": "2026-11-09T09:58:49.742990+09:00"
+    "utc": "2026-11-09T11:45:44.813012+00:00",
+    "tokyo": "2026-11-09T20:45:44.813012+09:00"
   },
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "acceptance_end_datetime": "2026-11-30T14:45:00.000Z",
-      "acceptance_start_datetime": "2024-10-29T15:00:00.000Z",
-      "id": "a0WJ200000CDKBZMA5",
-      "institution_name": "病院勤務者勤務環境改善事業・救急医療体制強化事業",
-      "name": "S-00006124",
+      "acceptance_end_datetime": "2026-12-11T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-09T03:00:00.000Z",
+      "id": "a0WfQ000003zgNCUAY",
+      "institution_name": null,
+      "name": "S-00010014",
       "subsidy_max_limit": 0,
-      "target_area_search": "東京都",
+      "target_area_search": "全国",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和６年度　病院勤務者勤務環境改善事業・救急医療体制強化事業（実績報告）",
+      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
       "matched_keywords": [
         "事業",
+        "支援",
+        "補助",
+        "設備"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-11T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-09T03:00:00.000Z",
+      "id": "a0WfQ000003znYLUAY",
+      "institution_name": null,
+      "name": "S-00010013",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "設備"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-14T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-09T04:00:00.000Z",
+      "id": "a0WfQ000003dVevUAE",
+      "institution_name": null,
+      "name": "S-00009912",
+      "subsidy_max_limit": 25000000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "GX地域共創補助金2026",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "促進",
         "設備",
-        "人材",
-        "環境"
+        "地域"
       ]
     }
   ]
