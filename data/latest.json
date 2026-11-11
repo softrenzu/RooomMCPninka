@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-10T23:29:11.457536+00:00",
-    "tokyo": "2026-11-11T08:29:11.457536+09:00"
+    "utc": "2026-11-11T06:40:04.091890+00:00",
+    "tokyo": "2026-11-11T15:40:04.091890+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 299,
+  "count": 300,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1170,6 +1170,24 @@
         "支援",
         "補助",
         "設備"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-11T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-11T03:00:00.000Z",
+      "id": "a0WfQ0000049swXUAQ",
+      "institution_name": null,
+      "name": "S-00010047",
+      "subsidy_max_limit": 2700000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和７年度補正「次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業補助金」【三次公募】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "開発",
+        "促進"
       ]
     },
     {
