@@ -1,28 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-11-11T17:14:49.650353+00:00",
-    "tokyo": "2026-11-12T02:14:49.650353+09:00"
+    "utc": "2026-11-12T00:49:15.843310+00:00",
+    "tokyo": "2026-11-12T09:49:15.843310+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-12-31T00:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-11T15:00:00.000Z",
-      "id": "a0WfQ000004BTqnUAG",
-      "institution_name": null,
-      "name": "S-00010052",
-      "subsidy_max_limit": 50000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度在宅医療現場における防犯機器等導入支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "研究",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }

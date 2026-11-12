@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-11T17:14:49.650353+00:00",
-    "tokyo": "2026-11-12T02:14:49.650353+09:00"
+    "utc": "2026-11-12T00:49:15.843310+00:00",
+    "tokyo": "2026-11-12T09:49:15.843310+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -3378,7 +3378,7 @@
       "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
       "acceptance_start_datetime": "2026-01-30T05:00:00.000Z",
       "id": "a0WJ200000CDXORMA5",
-      "institution_name": null,
+      "institution_name": "放送ネットワーク整備支援事業費補助金（地上基幹放送ネットワーク整備事業）",
       "name": "S-00008043",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
