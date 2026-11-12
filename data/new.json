@@ -1,27 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-11-12T11:27:25.121979+00:00",
-    "tokyo": "2026-11-12T20:27:25.121979+09:00"
+    "utc": "2026-11-12T20:03:56.809608+00:00",
+    "tokyo": "2026-11-13T05:03:56.809608+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
-      "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-      "id": "a0WfQ000004CHdtUAG",
-      "institution_name": null,
-      "name": "S-00010055",
-      "subsidy_max_limit": 0,
-      "target_area_search": "三重県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "四日市市中小企業脱炭素経営支援事業費補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "環境"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
