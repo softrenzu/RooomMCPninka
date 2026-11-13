@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-13T11:11:22.254583+00:00",
-    "tokyo": "2026-11-13T20:11:22.254583+09:00"
+    "utc": "2026-11-13T19:49:56.953083+00:00",
+    "tokyo": "2026-11-14T04:49:56.953083+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,27 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 295,
+  "count": 294,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-11-13T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-16T15:00:00.000Z",
-      "id": "a0WJ200000CDZi6MAH",
-      "institution_name": null,
-      "name": "S-00009232",
-      "subsidy_max_limit": 5000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "300名以下",
-      "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "人材"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-11-14T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
@@ -2667,7 +2650,7 @@
       "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
       "acceptance_start_datetime": "2026-05-29T05:00:00.000Z",
       "id": "a0WJ200000CDYnpMAH",
-      "institution_name": null,
+      "institution_name": "バス事業者人材開発支援奨励金",
       "name": "S-00009055",
       "subsidy_max_limit": 1900000,
       "target_area_search": "東京都",
