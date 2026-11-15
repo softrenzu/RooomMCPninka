@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-15T06:45:02.514765+00:00",
-    "tokyo": "2026-11-15T15:45:02.514765+09:00"
+    "utc": "2026-11-15T16:26:13.834350+00:00",
+    "tokyo": "2026-11-16T01:26:13.834350+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,47 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 293,
+  "count": 291,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-11-15T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-      "id": "a0WJ200000CDe6CMAT",
-      "institution_name": null,
-      "name": "S-00009708",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "京都府",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "設備",
-        "地域",
-        "環境"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-11-15T14:59:00.000Z",
-      "acceptance_start_datetime": "2026-09-14T15:00:00.000Z",
-      "id": "a0WJ200000CDeUgMAL",
-      "institution_name": null,
-      "name": "S-00009792",
-      "subsidy_max_limit": 50000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "助成",
-        "環境"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-11-16T03:00:00.000Z",
       "acceptance_start_datetime": "2026-10-14T01:00:00.000Z",
@@ -2043,7 +2006,7 @@
       "acceptance_end_datetime": "2027-01-29T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-08T00:00:00.000Z",
       "id": "a0WJ200000CDYSPMA5",
-      "institution_name": null,
+      "institution_name": "子育て支援型共同住宅推進事業",
       "name": "S-00008696",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
