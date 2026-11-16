@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-15T22:56:15.537491+00:00",
-    "tokyo": "2026-11-16T07:56:15.537491+09:00"
+    "utc": "2026-11-16T06:44:09.259827+00:00",
+    "tokyo": "2026-11-16T15:44:09.259827+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,27 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 291,
+  "count": 293,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-11-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-14T01:00:00.000Z",
-      "id": "a0WfQ000003CYIjUAO",
-      "institution_name": null,
-      "name": "S-00009829",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究",
-        "実証"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-11-16T07:00:00.000Z",
       "acceptance_start_datetime": "2026-10-31T15:00:00.000Z",
@@ -257,6 +240,42 @@
       "matched_keywords": [
         "開発",
         "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-25T08:15:00.000Z",
+      "acceptance_start_datetime": "2025-12-16T00:00:00.000Z",
+      "id": "a0WJ200000CDYDCMA5",
+      "institution_name": null,
+      "name": "S-00008580",
+      "subsidy_max_limit": 5000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "【農林水産省】中山間地域所得確保推進事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "導入",
+        "販路",
+        "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-11-26T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-10-14T01:00:00.000Z",
+      "id": "a0WfQ000003CYIjUAO",
+      "institution_name": null,
+      "name": "S-00009829",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究",
+        "実証"
       ]
     },
     {
@@ -866,25 +885,6 @@
       ]
     },
     {
-      "acceptance_end_datetime": "2026-12-01T08:15:00.000Z",
-      "acceptance_start_datetime": "2025-12-16T00:00:00.000Z",
-      "id": "a0WJ200000CDYDCMA5",
-      "institution_name": null,
-      "name": "S-00008580",
-      "subsidy_max_limit": 5000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "【農林水産省】中山間地域所得確保推進事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "販路",
-        "地域"
-      ]
-    },
-    {
       "acceptance_end_datetime": "2026-12-03T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-24T05:00:00.000Z",
       "id": "a0WJ200000CDbyjMAD",
@@ -972,6 +972,23 @@
         "促進",
         "設備",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-14T07:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-16T00:00:00.000Z",
+      "id": "a0WfQ000003rcVFUAY",
+      "institution_name": null,
+      "name": "S-00009995",
+      "subsidy_max_limit": 6000000,
+      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第3回】",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "促進"
       ]
     },
     {
@@ -1118,6 +1135,22 @@
         "販路",
         "地域",
         "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-16T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-16T01:00:00.000Z",
+      "id": "a0WfQ000003qLZhUAM",
+      "institution_name": null,
+      "name": "S-00009985",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募",
+      "matched_keywords": [
+        "事業",
+        "開発",
+        "研究"
       ]
     },
     {
