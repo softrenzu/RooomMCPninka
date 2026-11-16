@@ -1,42 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-11-16T06:44:09.259827+00:00",
-    "tokyo": "2026-11-16T15:44:09.259827+09:00"
+    "utc": "2026-11-16T19:40:58.572838+00:00",
+    "tokyo": "2026-11-17T04:40:58.572838+09:00"
   },
-  "count": 2,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-12-14T07:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-16T00:00:00.000Z",
-      "id": "a0WfQ000003rcVFUAY",
-      "institution_name": null,
-      "name": "S-00009995",
-      "subsidy_max_limit": 6000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第3回】",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "促進"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-12-16T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-16T01:00:00.000Z",
-      "id": "a0WfQ000003qLZhUAM",
-      "institution_name": null,
-      "name": "S-00009985",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
