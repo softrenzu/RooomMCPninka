@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-18T01:00:14.913879+00:00",
-    "tokyo": "2026-11-18T10:00:14.913879+09:00"
+    "utc": "2026-11-18T11:53:33.785961+00:00",
+    "tokyo": "2026-11-18T20:53:33.785961+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -31,25 +31,6 @@
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-11-18T08:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-27T15:00:00.000Z",
-      "id": "a0WJ200000CDaSdMAL",
-      "institution_name": null,
-      "name": "S-00009303",
-      "subsidy_max_limit": 1000000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和8年度製品開発着手支援助成事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "開発",
-        "促進",
-        "研究"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-11-20T03:00:00.000Z",
       "acceptance_start_datetime": "2026-08-28T01:00:00.000Z",
@@ -882,6 +863,21 @@
         "補助",
         "導入",
         "促進",
+        "研究"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-04T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-18T01:00:00.000Z",
+      "id": "a0WfQ0000049aA1UAI",
+      "institution_name": null,
+      "name": "S-00010046",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「次世代バイオものづくり製造基盤技術に関する調査」の公募",
+      "matched_keywords": [
+        "開発",
         "研究"
       ]
     },
@@ -4778,7 +4774,7 @@
       "acceptance_end_datetime": "2029-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2025-11-19T15:00:00.000Z",
       "id": "a0WJ200000CDVxKMAX",
-      "institution_name": null,
+      "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "name": "S-00007485",
       "subsidy_max_limit": 3000000,
       "target_area_search": "東京都",
@@ -4951,6 +4947,7 @@
       "title": "令和7年度　ES（社員満足度）向上による若手人材確保・定着事業助成金　１年目申請用",
       "matched_keywords": [
         "事業",
+        "支援",
         "助成",
         "促進",
         "人材",
