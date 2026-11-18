@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-18T11:53:33.785961+00:00",
-    "tokyo": "2026-11-18T20:53:33.785961+09:00"
+    "utc": "2026-11-18T20:39:52.325782+00:00",
+    "tokyo": "2026-11-19T05:39:52.325782+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -5062,7 +5062,7 @@
       "acceptance_end_datetime": "2040-12-31T03:00:00.000Z",
       "acceptance_start_datetime": "2026-10-01T03:00:00.000Z",
       "id": "a0WfQ000003kpQnUAI",
-      "institution_name": null,
+      "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）",
       "name": "S-00009949",
       "subsidy_max_limit": 0,
       "target_area_search": "東京都",

@@ -1,24 +1,8 @@
 {
   "generated_at": {
-    "utc": "2026-11-18T11:53:33.785961+00:00",
-    "tokyo": "2026-11-18T20:53:33.785961+09:00"
+    "utc": "2026-11-18T20:39:52.325782+00:00",
+    "tokyo": "2026-11-19T05:39:52.325782+09:00"
   },
-  "count": 1,
-  "items": [
-    {
-      "acceptance_end_datetime": "2026-12-04T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-18T01:00:00.000Z",
-      "id": "a0WfQ0000049aA1UAI",
-      "institution_name": null,
-      "name": "S-00010046",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「次世代バイオものづくり製造基盤技術に関する調査」の公募",
-      "matched_keywords": [
-        "開発",
-        "研究"
-      ]
-    }
-  ]
+  "count": 0,
+  "items": []
 }
