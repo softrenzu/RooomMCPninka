@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-17T16:11:26.278602+00:00",
-    "tokyo": "2026-11-18T01:11:26.278602+09:00"
+    "utc": "2026-11-18T01:00:14.913879+00:00",
+    "tokyo": "2026-11-18T10:00:14.913879+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 291,
+  "count": 292,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -849,6 +849,21 @@
         "支援",
         "助成",
         "販路"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-03T03:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-18T01:00:00.000Z",
+      "id": "a0WfQ0000042PWHUA2",
+      "institution_name": null,
+      "name": "S-00010024",
+      "subsidy_max_limit": 0,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "「自動車用内燃機関技術のグローバル動向調査」の公募",
+      "matched_keywords": [
+        "開発",
+        "研究"
       ]
     },
     {
