@@ -1,8 +1,29 @@
 {
   "generated_at": {
-    "utc": "2026-11-19T11:50:47.417697+00:00",
-    "tokyo": "2026-11-19T20:50:47.417697+09:00"
+    "utc": "2026-11-19T20:45:34.508933+00:00",
+    "tokyo": "2026-11-20T05:45:34.508933+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2026-12-18T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-11-19T15:00:00.000Z",
+      "id": "a0WfQ000003wLYbUAM",
+      "institution_name": null,
+      "name": "S-00010005",
+      "subsidy_max_limit": 8000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度　宿泊事業者向け省力化推進事業補助金",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "促進",
+        "観光",
+        "環境"
+      ]
+    }
+  ]
 }
