@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-19T02:38:27.551160+00:00",
-    "tokyo": "2026-11-19T11:38:27.551160+09:00"
+    "utc": "2026-11-19T11:50:47.417697+00:00",
+    "tokyo": "2026-11-19T20:50:47.417697+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -3723,7 +3723,7 @@
       "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
       "id": "a0WJ200000CDY1fMAH",
-      "institution_name": null,
+      "institution_name": "【長野県茅野市】新商品開発事業補助金",
       "name": "S-00008391",
       "subsidy_max_limit": 300000,
       "target_area_search": "長野県",
@@ -4504,22 +4504,6 @@
       ]
     },
     {
-      "acceptance_end_datetime": "2027-12-31T14:59:00.000Z",
-      "acceptance_start_datetime": "2022-09-15T09:00:00.000Z",
-      "id": "a0W2x000007Cos5EAC",
-      "institution_name": "事業再構築補助金",
-      "name": "S-00003073",
-      "subsidy_max_limit": 150000000,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "［第六回以降］事業再構築補助金（共同申請者）",
-      "matched_keywords": [
-        "事業",
-        "補助",
-        "環境"
-      ]
-    },
-    {
       "acceptance_end_datetime": "2028-01-01T07:45:00.000Z",
       "acceptance_start_datetime": "2024-06-09T15:00:00.000Z",
       "id": "a0WJ2000000pSPQMA2",
@@ -5040,6 +5024,22 @@
         "補助",
         "促進",
         "地域",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2032-12-31T14:59:00.000Z",
+      "acceptance_start_datetime": "2022-09-15T09:00:00.000Z",
+      "id": "a0W2x000007Cos5EAC",
+      "institution_name": "事業再構築補助金",
+      "name": "S-00003073",
+      "subsidy_max_limit": 150000000,
+      "target_area_search": "全国",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "［第六回以降］事業再構築補助金（共同申請者）",
+      "matched_keywords": [
+        "事業",
+        "補助",
         "環境"
       ]
     },
