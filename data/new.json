@@ -1,42 +1,26 @@
 {
   "generated_at": {
-    "utc": "2026-11-20T02:23:17.987019+00:00",
-    "tokyo": "2026-11-20T11:23:17.987019+09:00"
+    "utc": "2026-11-20T11:51:48.129971+00:00",
+    "tokyo": "2026-11-20T20:51:48.129971+09:00"
   },
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "acceptance_end_datetime": "2026-12-03T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-20T01:00:00.000Z",
-      "id": "a0WfQ0000047V4oUAE",
-      "institution_name": "P26002_革新型蓄電池技術開発・高度解析事業",
-      "name": "S-00010040",
-      "subsidy_max_limit": 0,
-      "target_area_search": "全国",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "「ナトリウムイオン電池に関する技術（特許）動向調査」の公募",
-      "matched_keywords": [
-        "事業",
-        "開発",
-        "研究"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-12-22T03:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-20T01:00:00.000Z",
-      "id": "a0WfQ0000043Od4UAE",
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+      "id": "a0WJ200000CDWQuMAP",
       "institution_name": null,
-      "name": "S-00010028",
+      "name": "S-00007620",
       "subsidy_max_limit": 0,
-      "target_area_search": "全国",
+      "target_area_search": "東京都",
       "target_number_of_employees": "従業員数の制約なし",
-      "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（b-2：人材育成）の追加公募",
+      "title": "令和６年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
       "matched_keywords": [
         "事業",
-        "開発",
-        "研究",
-        "実証",
-        "人材"
+        "支援",
+        "補助",
+        "人材",
+        "環境"
       ]
     }
   ]
