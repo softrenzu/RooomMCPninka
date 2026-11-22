@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-21T19:25:20.756802+00:00",
-    "tokyo": "2026-11-22T04:25:20.756802+09:00"
+    "utc": "2026-11-22T01:24:24.142426+00:00",
+    "tokyo": "2026-11-22T10:24:24.142426+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1397,7 +1397,7 @@
       "acceptance_end_datetime": "2026-12-25T14:59:00.000Z",
       "acceptance_start_datetime": "2026-08-01T01:00:00.000Z",
       "id": "a0WJ200000CDderMAD",
-      "institution_name": "SDS電子化補助金事業",
+      "institution_name": null,
       "name": "S-00009553",
       "subsidy_max_limit": 1000000,
       "target_area_search": "全国",
