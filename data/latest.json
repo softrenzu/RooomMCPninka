@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-22T11:37:44.818133+00:00",
-    "tokyo": "2026-11-22T20:37:44.818133+09:00"
+    "utc": "2026-11-22T19:48:19.095131+00:00",
+    "tokyo": "2026-11-23T04:48:19.095131+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2385,7 +2385,7 @@
       "acceptance_end_datetime": "2027-02-26T08:00:00.000Z",
       "acceptance_start_datetime": "2026-04-08T00:00:00.000Z",
       "id": "a0WJ200000CDYSFMA5",
-      "institution_name": null,
+      "institution_name": "子育て支援型共同住宅推進事業",
       "name": "S-00008694",
       "subsidy_max_limit": 0,
       "target_area_search": "全国",
