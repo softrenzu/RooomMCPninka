@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-23T01:49:38.474718+00:00",
-    "tokyo": "2026-11-23T10:49:38.474718+09:00"
+    "utc": "2026-11-23T13:06:08.517896+00:00",
+    "tokyo": "2026-11-23T22:06:08.517896+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -2797,6 +2797,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【さいたま市】令和８年度さいたま市商用車の電動化等普及促進補助金",
       "matched_keywords": [
+        "事業",
         "補助",
         "導入",
         "促進",
@@ -2814,6 +2815,7 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金",
       "matched_keywords": [
+        "事業",
         "補助",
         "導入",
         "促進",
@@ -3349,7 +3351,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "四日市市燃料電池自動車導入促進補助金",
       "matched_keywords": [
-        "事業",
         "補助",
         "導入",
         "促進",
