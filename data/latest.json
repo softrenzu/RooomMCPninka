@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-24T02:18:20.096612+00:00",
-    "tokyo": "2026-11-24T11:18:20.096612+09:00"
+    "utc": "2026-11-24T13:54:04.219878+00:00",
+    "tokyo": "2026-11-24T22:54:04.219878+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,29 +27,10 @@
     "DX",
     "AI"
   ],
-  "count": 295,
+  "count": 294,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
-    {
-      "acceptance_end_datetime": "2026-11-24T04:00:00.000Z",
-      "acceptance_start_datetime": "2026-10-23T00:00:00.000Z",
-      "id": "a0WfQ000003rLvpUAE",
-      "institution_name": null,
-      "name": "S-00009991",
-      "subsidy_max_limit": 200000000,
-      "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "助成",
-        "導入",
-        "開発",
-        "設備"
-      ]
-    },
     {
       "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
       "acceptance_start_datetime": "2026-11-05T01:00:00.000Z",
@@ -429,6 +410,7 @@
       "matched_keywords": [
         "事業",
         "支援",
+        "補助",
         "設備",
         "人材",
         "環境"
