@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-23T13:06:08.517896+00:00",
-    "tokyo": "2026-11-23T22:06:08.517896+09:00"
+    "utc": "2026-11-24T02:18:20.096612+00:00",
+    "tokyo": "2026-11-24T11:18:20.096612+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 293,
+  "count": 295,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -1295,6 +1295,39 @@
         "観光",
         "販路",
         "地域"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-25T07:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-24T00:00:00.000Z",
+      "id": "a0WfQ0000041nyrUAA",
+      "institution_name": null,
+      "name": "S-00010018",
+      "subsidy_max_limit": 8000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和8年度第3回 事業承継を契機とした成長支援事業(一般コース)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2026-12-25T07:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-24T00:00:00.000Z",
+      "id": "a0WfQ0000041oIDUAY",
+      "institution_name": null,
+      "name": "S-00010020",
+      "subsidy_max_limit": 3000000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "助成",
+        "販路"
       ]
     },
     {
