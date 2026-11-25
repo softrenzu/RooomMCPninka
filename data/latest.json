@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-25T08:46:48.447945+00:00",
-    "tokyo": "2026-11-25T17:46:48.447945+09:00"
+    "utc": "2026-11-25T19:23:41.356362+00:00",
+    "tokyo": "2026-11-26T04:23:41.356362+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -27,7 +27,7 @@
     "DX",
     "AI"
   ],
-  "count": 292,
+  "count": 293,
   "successful_queries": 19,
   "query_errors": [],
   "items": [
@@ -2507,6 +2507,22 @@
     },
     {
       "acceptance_end_datetime": "2027-02-26T14:59:00.000Z",
+      "acceptance_start_datetime": "2026-06-24T15:00:00.000Z",
+      "id": "a0WfQ000003ps4fUAA",
+      "institution_name": null,
+      "name": "S-00009978",
+      "subsidy_max_limit": 900000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "300名以下",
+      "title": "女性活躍のための施設整備助成金（リース費用助成コース）",
+      "matched_keywords": [
+        "事業",
+        "助成",
+        "環境"
+      ]
+    },
+    {
+      "acceptance_end_datetime": "2027-02-26T14:59:00.000Z",
       "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
       "id": "a0WJ200000CDK76MAH",
       "institution_name": null,
@@ -4595,7 +4611,6 @@
       "title": "女性の活躍推進に向けた職場環境改善奨励金　実績報告",
       "matched_keywords": [
         "事業",
-        "支援",
         "環境"
       ]
     },
