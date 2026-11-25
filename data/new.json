@@ -1,8 +1,25 @@
 {
   "generated_at": {
-    "utc": "2026-11-24T23:56:23.375807+00:00",
-    "tokyo": "2026-11-25T08:56:23.375807+09:00"
+    "utc": "2026-11-25T08:46:48.447945+00:00",
+    "tokyo": "2026-11-25T17:46:48.447945+09:00"
   },
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "acceptance_end_datetime": "2027-01-31T15:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-24T15:00:00.000Z",
+      "id": "a0WfQ000004HZ0fUAG",
+      "institution_name": null,
+      "name": "S-00010071",
+      "subsidy_max_limit": 0,
+      "target_area_search": "宮崎県",
+      "target_number_of_employees": "300名以下",
+      "title": "都城市中小企業退職金等共済加入促進事業補助金（令和８年度）",
+      "matched_keywords": [
+        "事業",
+        "補助",
+        "促進"
+      ]
+    }
+  ]
 }
