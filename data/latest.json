@@ -1,7 +1,7 @@
 {
   "generated_at": {
-    "utc": "2026-11-26T03:39:13.114201+00:00",
-    "tokyo": "2026-11-26T12:39:13.114201+09:00"
+    "utc": "2026-11-26T17:02:04.323634+00:00",
+    "tokyo": "2026-11-27T02:02:04.323634+09:00"
   },
   "source": "Jグランツ（jGrants）公開API / デジタル庁",
   "api": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
@@ -1081,6 +1081,25 @@
       ]
     },
     {
+      "acceptance_end_datetime": "2026-12-19T00:00:00.000Z",
+      "acceptance_start_datetime": "2026-11-23T15:00:00.000Z",
+      "id": "a0WfQ000004BTqnUAG",
+      "institution_name": null,
+      "name": "S-00010052",
+      "subsidy_max_limit": 50000,
+      "target_area_search": "東京都",
+      "target_number_of_employees": "従業員数の制約なし",
+      "title": "令和８年度在宅医療現場における防犯機器等導入支援事業",
+      "matched_keywords": [
+        "事業",
+        "支援",
+        "補助",
+        "導入",
+        "研究",
+        "環境"
+      ]
+    },
+    {
       "acceptance_end_datetime": "2026-12-22T03:00:00.000Z",
       "acceptance_start_datetime": "2026-11-20T01:00:00.000Z",
       "id": "a0WfQ0000043Od4UAE",
@@ -1613,25 +1632,6 @@
         "事業",
         "補助",
         "設備"
-      ]
-    },
-    {
-      "acceptance_end_datetime": "2026-12-31T00:00:00.000Z",
-      "acceptance_start_datetime": "2026-11-11T15:00:00.000Z",
-      "id": "a0WfQ000004BTqnUAG",
-      "institution_name": null,
-      "name": "S-00010052",
-      "subsidy_max_limit": 50000,
-      "target_area_search": "東京都",
-      "target_number_of_employees": "従業員数の制約なし",
-      "title": "令和８年度在宅医療現場における防犯機器等導入支援事業",
-      "matched_keywords": [
-        "事業",
-        "支援",
-        "補助",
-        "導入",
-        "研究",
-        "環境"
       ]
     },
     {
@@ -2582,7 +2582,7 @@
       "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
       "acceptance_start_datetime": "2026-05-29T05:00:00.000Z",
       "id": "a0WJ200000CDYnpMAH",
-      "institution_name": "バス事業者人材開発支援奨励金",
+      "institution_name": null,
       "name": "S-00009055",
       "subsidy_max_limit": 1900000,
       "target_area_search": "東京都",
@@ -3810,7 +3810,6 @@
       "target_number_of_employees": "従業員数の制約なし",
       "title": "【長野県茅野市】雇用促進奨励金",
       "matched_keywords": [
-        "補助",
         "促進",
         "人材"
       ]
@@ -4525,7 +4524,6 @@
       "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
       "matched_keywords": [
         "事業",
-        "支援",
         "補助",
         "導入",
         "開発",
@@ -4729,7 +4727,7 @@
       "acceptance_end_datetime": "2029-03-31T14:59:00.000Z",
       "acceptance_start_datetime": "2025-09-10T15:00:00.000Z",
       "id": "a0WJ200000CDUvzMAH",
-      "institution_name": null,
+      "institution_name": "ES（社員満足度）向上による若手人材確保・定着事業助成金",
       "name": "S-00007271",
       "subsidy_max_limit": 3000000,
       "target_area_search": "東京都",
